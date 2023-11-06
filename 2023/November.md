@@ -24,3 +24,5 @@
 	- **background** : 随着 JWST 的发射，人们开始研究早期宇宙的恒星形成问题。在早期宇宙的高气体压力和低金属丰度下，恒星初始质量函数(IMF)会是什么样的呢？IMF 影响了星系的几乎所有观测特性， 控制了恒星如何影响星系生长，所以 IMF 在星系形成领域也是至关重要的。
 	- **summary** : report the detection of **two Lyman-$\alpha$-emitting galaxies** in the Epoch of Reionization with **exceptionally top-heavy IMFs**, analysis of **JWST/NIRSpec** data demonstrates that these galaxies exhibit spectra which are completely dominated by the nebular continuum, observe a steep turnover in the ultraviolet continuum. Instead of a contrived damped Lyman-$\alpha$-absorption model, we show this feature is **two-photon emission from neutral hydrogen** (which can only dominate if the ionizing emissivity is $\geq 10 \times$ that of a typical star-forming galaxy). 
 	- **key** : Found such radiation fields can be produced in star clusters dominated by low-metallicity stars of $\geq 50 M_{\odot}$, where the IMF is $10 - 30 \times$ **more top-heavy** than typically assumed.
+
+## Tue,
