@@ -25,4 +25,8 @@
 	- **summary** : report the detection of **two Lyman-$\alpha$-emitting galaxies** in the Epoch of Reionization with **exceptionally top-heavy IMFs**, analysis of **JWST/NIRSpec** data demonstrates that these galaxies exhibit spectra which are completely dominated by the nebular continuum, observe a steep turnover in the ultraviolet continuum. Instead of a contrived damped Lyman-$\alpha$-absorption model, we show this feature is **two-photon emission from neutral hydrogen** (which can only dominate if the ionizing emissivity is $\geq 10 \times$ that of a typical star-forming galaxy). 
 	- **key** : Found such radiation fields can be produced in star clusters dominated by low-metallicity stars of $\geq 50 M_{\odot}$, where the IMF is $10 - 30 \times$ **more top-heavy** than typically assumed.
 
-## Tue,
+## Tue, 7 Nov
+- [Parameter Estimation for Open Clusters using an Artificial Neural Network with a QuadTree-based Feature Extractor](https://arxiv.org/abs/2311.03009) L.Gavallo(2021-2024, PhD in Università degli Studi di Padova), G. Carraro, L. Magrini
+	- **status** : accepted in AJ
+	- **summary** : develop a ANN trained on synthetic clusters to estimate **age, metallicity, extinction and distance** of **Gaia** open clusters, extract features  using **QuadTree** tool and adopt a multi-band approach, obtain reliable parameters for [~5400 clusters](https://phisicslollo0.github.io/cavallo23.html).
+	- **why ANN not CNN ?** ANN maintains the **full positinal information** and have better performance for this work.
