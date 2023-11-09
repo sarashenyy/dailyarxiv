@@ -1,4 +1,4 @@
 # Week 46, November
-[xxx](November##Tue, 7 Nov)
+[xxx](11-November.md)
 
 
