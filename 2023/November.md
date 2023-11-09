@@ -1,3 +1,4 @@
+# Week 46, 2023
 ## Mon, 6 Nov
 
 >今日陆老师名言 ： 我不在乎这个工作能不能发nature，我做得开心就行 🐶 
@@ -30,3 +31,5 @@
 	- **status** : accepted in AJ
 	- **summary** : develop a ANN trained on synthetic clusters to estimate **age, metallicity, extinction and distance** of **Gaia** open clusters, extract features  using **QuadTree** tool and adopt a multi-band approach, obtain reliable parameters for [~5400 clusters](https://phisicslollo0.github.io/cavallo23.html).
 	- **why ANN not CNN ?** ANN maintains the **full positinal information** and have better performance for this work.
+
+## Wed, 8 Nov
