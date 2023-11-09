@@ -1,4 +1,4 @@
-# Week 46, 2023
+# Week 46
 ## Mon, 6 Nov
 
 >今日陆老师名言 ： 我不在乎这个工作能不能发nature，我做得开心就行 🐶 
@@ -33,3 +33,5 @@
 	- **why ANN not CNN ?** ANN maintains the **full positinal information** and have better performance for this work.
 
 ## Wed, 8 Nov
+
+# Week 47
