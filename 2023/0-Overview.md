@@ -8,3 +8,14 @@
 [Tue, 7 Nov](11-November.md#tue-7-nov)
 - Parameter Estimation for Open Clusters using an Artificial Neural Network with a QuadTree-based Feature Extractor
 
+[Wed, 8 Nov](11-November.md#wed-8-nov)
+- Hierarchical Bayesian Inference of Globular Cluster Properties
+- Why Galaxies are Indeed Simpler than Expected
+- Galaxy Spectra neural Network (GaSNet). II. Using Deep Learning for Spectral Classification and Redshift Predictions
+
+[Tue, 9 Nov](11-November.md#thu-9-nov)
+- The Future of Astronomical Data Infrastructure: Meeting Report
+
+[Fri, 10 Nov](11-November.md#fri-10-nov)
+- Two Watts is All You Need: Enabling In-Detector Real-Time Machine Learning for Neutrino Telescopes Via Edge Computing
+- An evolutionary continuum from nucleated dwarf galaxies to star clusters
