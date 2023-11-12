@@ -1,4 +1,4 @@
-# Week 46, November
+## Week 46, November
 [Mon, 6 Nov](11-November.md#mon-6-nov)
 - Filamentary structures as the origin of blazar jet radio variability
 - Core-collapse supernova inside the core of a young massive star cluster: 3D MHD simulations
