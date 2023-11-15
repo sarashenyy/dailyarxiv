@@ -59,7 +59,42 @@
 - [Two Watts is All You Need: Enabling In-Detector Real-Time Machine Learning for Neutrino Telescopes Via Edge Computing](https://arxiv.org/abs/2311.04983) Miaochen Jin, Yushi Hu, Carlos A. Argüelles
 	- 首次尝试在Google Edge TPU (Tensor Processing Units)上将实时机器学习方法部署到 water/ice neutrino telscopes (中微子探测器)，设计了一种recursive neural network with a residual convolutional embedding。与传统基于GPU的方法有类似的精度，与基于CPU的方案有相同的功耗，实现了高精度低功耗。
 
-- [An evolutionary continuum from nucleated dwarf galaxies to star clusters](https://arxiv.org/abs/2311.05448) Kaixiang Wang, Eric W. Peng, Chengze Liu
+- [An evolutionary continuum from nucleated dwarf galaxies to star clusters](https://arxiv.org/abs/2311.05448) Kaixiang Wang(北大PhD), Eric W. Peng, Chengze Liu
+	- [作者讲解](https://weibo.com/2014366965/4966613864157758?wm=3333_2001&from=10DB193010&sourcetype=weixin&s_trans=6643844464_4966613864157758&s_channel=4)
 	- **status** : Published in **Nature.** Accepted on September 15
 	- **background** : In the nearby Universe, there are **hundreds** of **ultra-compact dawrf galaxies** (UCDs), with half-light radii $r_{h}$ of approximatesly **10-100 parsecs** and **stellar masses** $\approx 10^6-10^8 M_{\odot}$ . The detection of extended stellar envelopes, complex star formation histories, elecates mass-to-light ratio and supermassive black holes suggests that some UCDs are **remnant nuclear star clusters** of **tidally stripped dawrf galaxies** or even ancient compact galaxies. However, only a **few** objects have been found in the transient stage of tidal stripping. 超致密矮星系可能是潮汐剥离矮星系的残余核星团，但观测中只看到了很少的正在进行潮汐剥离的矮星系，这种猜测的演化道路并没有被完全追踪。
 	- **summary** : show **106 galaxies** in the Virgo cluster have **morphologies** that are intermediate between normal, nucleated dwarf galaxies and single-component UCDs, revealing a continuum that **fully maps this morphological transition** and **fills the ‘size gap’ between star clusters and galaxies.**
+
+# Week 47
+## Mon, 13 Nov
+- [Imprints of Sagittarius accretion event: Young O-rich stars and discontinuous chemical evolution in Milky Way disc](https://arxiv.org/abs/2311.05815)
+	- **status** : Under review at **Nature Communications**
+	- **background** : 
+		- 在银河系早期历史中，有剧烈的合并和卫星星系吸积。在这些事件中，卫星星系 **Gaia-Enceladus/Sausage** 的吸积被认为是最后一次重大合并事件，从根本上改变了银河系的演化并塑造了银河系的化学-动力学结构 (chemo-dynamical structure)。
+		- 然而，最近的观测证据表明银河系在过去的 **4 Gyr** 中仍然经历了显著的恒星形成过程，这可能是**人马座矮星系**的扰动引起的 **perturbations** from **Sagittarius dwarf galaxy (Sgr)**。
+	- **summary** : 
+		- 测量**薄盘中的 [Fe/H] 和 [O/Fe]**， 首次报告了过去 4 Gyr，Sgr 吸积事件的化学特征。揭示了之前发现的 **年龄-[Fe/H] 关系的 V状结构 在银河系不同位置中会有变化**，并且包含了丰富的子结构。
+		- 有趣的是，在 $z_{max} < 0.3$ kpc 处发现了一个**不连续的结构**，它被大约 4 Gyr - 2Gyr 之间的一次恒星形成爆发所打断。在这一过程中，发现了氧丰度的富集，导致了明显的 [O/Fe] 梯度，形成了很多年轻的**富氧星**。
+		- 结合模拟的恒星形成历史和 Sgr的化学丰度，本文认为在银河系盘的这次不连续的化学演化过程中， Sgr 扮演了重要的角色。
+
+## Tue, 14 Nov
+- [Spectral Modeling of the Supersoft X-ray Source CAL87 based on Radiative Transfer Codes](https://arxiv.org/abs/2311.06492) Masahiro Tsujimoto, Misaki Mizumoto, Ken Ebisawa
+	- **background** : 
+		- **Super Soft X-ray Sources (SSS)** are white dwarf (WD) binaries that radiate almost entirely below ∼1~keV. X射线谱很软，燃烧非常稳定。
+		- 它们的X射线光谱通常都很复杂，发射特征和吸收特征交织在一起很难区分。吸收特征主要来自白矮星的大气层，这部分的辐射转移模型**已经被构建**出来了；发射特征来自白矮星大气层周围的冕(corona)，将从白矮星表面发出的辐射进行了二次辐射转移(The emission features are from the corona surrounding the WD atmosphere, **in which incident emission from the WD surface is reprocessed**)
+		- **冕的辐射传递模型**还**没有**被构建出来。
+	- **summary** : 
+		- 对 CAL87，LMC 中的 SSS 系统，它有来自冕的发射主导的光谱（如果假设白矮星大气发射全部被吸积盘阻挡）
+		- 用两种辐射转移代码构建了冕的辐射传递模型：**xstar** for a one-dimensional two-stream solver, **MONACO** for a three-dimensional Monte Carlo solver
+		- 通过 XMM-Newton Satellite 的光谱数据，分析了两种方法的差异和局限，对 CAL87 构建了一个较好的光谱模型。
+
+- [Multi-wavelength photometric study of five contact binaries in the field of globular cluster M4](https://arxiv.org/abs/2311.07051) Shanti Priya Devarapallia, Rukmini Jagirdara, Ravi Raja Pothunenia
+	- **background** : 双星是球状星团演化的关键
+	- **summary** : 
+		- 对距离最近的**球状星团M4**中的**5个双星**系统（5个变源）做了**多色测光**分析
+		- 使用**Wilson-Devinney method (WD)** 分析了5个变源的**光变曲线**，得到了基本参数
+		- 使用 **M-R diagram** 分析了它们的**演化阶段**
+		- 结合 **Gaia DR3** 的数据，建立了**三维 Vector-Point Diagrams(VPD)**，分析变源是否为星团成员星，发现 V49 和 NV4 并不是星团的成员星
+	- **data** : 
+		- 4个变源(**V48, V49, V51, V55**) : CASE, M4 Core Project with HST
+		- **NV4** : T40 and C18 Telescopes of Wise Observatory
