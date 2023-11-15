@@ -36,7 +36,7 @@
 - [Hierarchical Bayesian Inference of Globular Cluster Properties](https://arxiv.org/abs/2311.03704) Robin Y. Wen, Joshua S. Speagle, Jeremy J. Webb
 	- **summary** :  Bansed on **lowered isothermal cluster models**, present a **hierarchical bsyesian model** to estimate the structural properties and the phase space center (相空间中心) of a globular cluster (GC). First build a lowered isothermal distribution function using interpolation to provide realiable gradient information for **Hamiltoian Monte Carlo methods** (HMC) to sample large bayesian models (hundreds of parameters).
 	- **advantage** : avoids the common techinique of radial binning, try to explore hierarchical bayesian model to address issues including the unknown GC center, incomplete data and measurement errors.
-	- **model** : ![[2023-11-8.png]]
+	- **model** : ![](../figure/2023-11-8.png)
 
 - [Why Galaxies are Indeed Simpler than Expected](https://arxiv.org/abs/2311.03632) Jun-Sung Moon, Jounghun Lee
 	- 由于宇宙中星系的不同的合并历史、随机恒星形成以及纤维环境的多尺度影响 (multi-scale influences of filamentary environments)，我们很难想象早期宇宙存在**单一初始条件**能够单独解释星系的形成及演化。但观测研究发现，局部宇宙中观测到的星系的关键物理特征似乎收到单一因素调控，本工作将这一单一因素确定为初始潮汐场与原星系惯性动量张量之间的错位程度 (**degree of misalignments between the initial tidal field and protogalaxy inertia momentum tensors**)。通过 **IllustrisTNG** 验证了这一猜想，认为宇宙学初始条件对星系演化的影响比人们通常认为的要大得多。
