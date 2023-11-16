@@ -98,3 +98,33 @@
 	- **data** : 
 		- 4个变源(**V48, V49, V51, V55**) : CASE, M4 Core Project with HST
 		- **NV4** : T40 and C18 Telescopes of Wise Observatory
+
+## Wed, 15 Nov
+- [Evaporation Ages: a New Dating Method for Young Star Clusters](https://arxiv.org/abs/2311.08363) V.-M. Pelkonen, N. Miret-Ring, P.Padoan
+	- **background** : 
+		- 年轻星团的年龄可以给主序前星和原行星盘的形成和演化提供基本的参考(fundamental clock)，但是对年轻星团的年龄测量不同方法的差别很大。
+		- **evaporation age** 可以给低质量的主序前星演化，恒星形成和年轻星团的气体蒸发(gas-evaporation)历史提供重要的制约。对年轻星团来说，evaporation age可能比等龄线年龄**更精确**，因为等龄线模型对这些年轻星团本身的观测和建模就有很大的不确定性。
+	- **smmary** : 
+		- 本文提出了一种新方法，基于星团的 **evaporation age** 来推算它的动力学年龄 **kinematic age**。
+		- 利用了数百个模拟星团(40 Myr, 250pc)对方法进行了检验。
+		- 星团 evaporation age 的测量不确定性最小在10% （large evaporated stars & small observational errors），并且获得了10个观测星团的evaporation age，与等龄线年龄非常符合。
+
+- [MCMC to address model misspecification in Deep Learning classification of Radio Galaxies](https://arxiv.org/abs/2311.08243) Devina Mohan, Anna Scaife
+	- **background** : 
+		- 贝叶斯神经网络(BNN)为深度学习模型预测中的不确定性建模提供了一种原则性的方法，能够从模型输出中提取误差估计。
+		- 但是，大部分基于贝叶斯推断的技术（ex. 变分推断variational inference, 基于MCMC的技术）都会有 **"cold posterior effect(CPE)" 冷后验效应**，即为了得到更好的预测性能，必须要**降低后验的权重**。
+		- CPE可能和数据扩大和数据管理 (data augmentation or dataset curation) 带来的先验和似然的误判有关。
+	- **summary** : 本工作中使用MCMC采样，高斯参数族(**Gaussian parametric family**)对真实的后验来说是不好的变分近似(**poor variational approximation**)，并且**导致**了之前在使用基于变分推理的 **BNN** 进行射电星系形态分类时观测到的 **CPE**。
+
+## Thu, 16 Nov
+- [On the mass and wind luminosity of young Galactic open clusters in Gaia DR2](https://arxiv.org/abs/2311.09089) Silvia Celli, Andreas Specovius, Stefano Menchiari
+	- **background** : 星团作用于星际介质的反馈机制，影响了星系的化学和动力学演化。另外，**年轻大质量星团**可能是高效的粒子加速器，可能有助于宇宙射线的产生。
+	- **summary** : 
+		- 基于恒星数量，星等和消光，提出了一种方法，评估被Gaia观测的银河系年轻疏散星团(< 30 Myr)的 **wind luminosity**，其对确定加速粒子的能量非常重要假设恒星质量分布函数为 kroupa 函数，考虑当前年龄和质量的星团下可能的最大恒星质量，保守地估计了**Gaia DR2**中的 **387 个星团的质量和 wind luminosity**。
+		- 与之前工作相比，本文的样本比之前的**多了三倍**，尤其是在**几千个太阳质量以上**的，这对于预测加速粒子相互作用产生的伽马射线辐射具有极其重要的意义。得到的星团 wind luminosity distribution 可以达到**3 x 10^38 erg/s**，对于潜在的粒子加速情况来说是一个很有希望的特征。
+
+- [The POKEMON Speckle Survey of Nearby M dwarfs. II. Observations of 1124 Targets](https://arxiv.org/abs/2311.08489) Catherine A. Clark, Gerared T. van Belle, Elliott P. Horch
+	- **background** : 恒星多重性和许多性质相关，对**M矮星的多重性**测量很难，因为M矮星非常暗，并且直到最近才有完整的星表出现。
+	- **POKEMON** : Pervasive Overview of "Kompanions" of Every M dwarf in Our Neighborhood (POKEMON) survey, 用了 Differential Speckle Survey Instrument on the 4.3-meter Lowell Discovery Telescope, the NN-EXPLORE Exoplanet Stellar Speckle Imager on the 3.5-meter WIYN telescope
+	- **data** : M0V-M9V, out to 15 pc， 和一些额外的比较远但亮的源。总样本数 1124 颗M矮星。新发现的源在第一篇文章中描述。
+	- **summary**： 列出了所有探测到的M矮星多星系统，发现大部分探测到的样本(58.9%)**在Gaia中都不可分辨**。发现模拟中大部分的多星都(73.2%)**可以被 speckle observations 探测到**。

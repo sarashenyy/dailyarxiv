@@ -6,7 +6,7 @@
 - Nebular dominated galaxies in the early Universe with top-heavy stellar initial mass functions
 
 [Tue, 7 Nov](11-November.md#tue-7-nov)
-- Parameter Estimation for Open Clusters using an Artificial Neural Network with a QuadTree-based Feature Extractor
+- 💡 Parameter Estimation for Open Clusters using an Artificial Neural Network with a QuadTree-based Feature Extractor
 
 [Wed, 8 Nov](11-November.md#wed-8-nov)
 - Hierarchical Bayesian Inference of Globular Cluster Properties
