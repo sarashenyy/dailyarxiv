@@ -128,3 +128,13 @@
 	- **POKEMON** : Pervasive Overview of "Kompanions" of Every M dwarf in Our Neighborhood (POKEMON) survey, 用了 Differential Speckle Survey Instrument on the 4.3-meter Lowell Discovery Telescope, the NN-EXPLORE Exoplanet Stellar Speckle Imager on the 3.5-meter WIYN telescope
 	- **data** : M0V-M9V, out to 15 pc， 和一些额外的比较远但亮的源。总样本数 1124 颗M矮星。新发现的源在第一篇文章中描述。
 	- **summary**： 列出了所有探测到的M矮星多星系统，发现大部分探测到的样本(58.9%)**在Gaia中都不可分辨**。发现模拟中大部分的多星都(73.2%)**可以被 speckle observations 探测到**。
+
+## Fri, 17 Nov
+- [Optical polarisation study of Galactic Open clusters](https://arxiv.org/abs/2311.09617) Namita Uppal, Shashikiran Ganesh, Santosh Joshi （印度人写的，摘要中特别指出用了两个 Indian national facilities 🐶）
+	- **background** : 
+		- 尘埃虽然只占 ISM (Interstellar Medium) 的 1%，但仍然是银河系的重要组成部分。它吸收了短波的星光并将之在长波再发射，从而影响我们对银河系的观测，在长波上研究银河系的尘埃分布可能会因为未知的银河系势能造成的**距离**模糊而产生偏差(may cause discrepancies due to distance ambiguity caused by unknown Galactic potential)。
+		- 但是，如果将距离信息与尘埃对背景星光的偏振相结合，就可以给出视线方向遇到的尘埃云的数量的直接观测信息。
+	- **summary** : 
+		- 观测了**15个星团**，它们分别位于**3个视线方向**的**不同距离**上。
+		- 测量得到的偏振信息用于检查尘埃分布情况和对选定平面上的磁场(The measured polarisation results used to scrutinize the dust distribution and orientation of the local plane of sky magnetic fields towards selected directions.)
+		- 发现遥远的 King8 有2个前景层分别位于～500pc和～3500pc。对不同的星团也发现了多个尘埃层。
