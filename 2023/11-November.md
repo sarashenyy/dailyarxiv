@@ -138,3 +138,45 @@
 		- 观测了**15个星团**，它们分别位于**3个视线方向**的**不同距离**上。
 		- 测量得到的偏振信息用于检查尘埃分布情况和对选定平面上的磁场(The measured polarisation results used to scrutinize the dust distribution and orientation of the local plane of sky magnetic fields towards selected directions.)
 		- 发现遥远的 King8 有2个前景层分别位于～500pc和～3500pc。对不同的星团也发现了多个尘埃层。
+
+# Week 48
+## Mon, 20 Nov
+- [Ursa Major III/UNIONS 1: the darkest galaxy ever discovered?](IMF-sensitive line-strengths with velocity dispersion) [Raphaël Errani](https://arxiv.org/search/astro-ph?searchtype=author&query=Errani%2C+R), [Julio F. Navarro](https://arxiv.org/search/astro-ph?searchtype=author&query=Navarro%2C+J+F), Simon E. T. Smith
+
+## Tue, 21 Nov
+- [Mass ratio estimates for overcontact binaries using the derivatives of light curves](https://arxiv.org/abs/2311.10949) Shinjirou Kouzuma
+	- summary: 用高度相接的双星做质量比，认为这个方法在之后的巡天里会很有用
+
+- [Detecting Cosmic 21 cm Global Signal Using an Improved Polynomial Fitting Algorithm](https://arxiv.org/abs/2311.10951) (上台) Tianyang Liu, Junhua GU, Quan Guo
+	- summary: 改进了polynomi fitting的21cm线信号提取方法。
+
+- [Apparent effect of dust extinction on the observed outflow velocity of ionized gas in galaxy mergers](https://arxiv.org/abs/2311.11245)
+	- summary: 基于模拟，消光对星系并合时电离气体外流速度的影响。
+	- 题外话：银河系和M31的并合会对单颗星上的生命有什么影响？由于星系中星和星的距离非常远，恒星的运行速度相对宇宙尺度来说很慢，基本上不会有什么影响（撞在一起） 😜
+
+- [G213.0−0.6, a true supernova remnant or just an HII region?](https://arxiv.org/abs/2311.11277) (国台)
+	- summary: 发现 G213.0−0.6 这个射电源可能不是超新星遗迹而是 HII 区。（这个源在历史上有人声称是超新星遗迹，因为有一个shell-like morphology, steep radio continuum spectrum, 和高 [S II]/H$\alpha$ 的特征）
+
+-  [On the co-rotation of Milky Way satellites: LMC-mass satellites induce apparent motions in outer halo tracers](https://arxiv.org/pdf/2311.11359)
+	- summary: 认为 LMC 会影响 MW 外晕的恒星的转动
+
+
+- [Evidence of Dark Contents in the Center of NGC 6517](https://arxiv.org/abs/2311.11478)
+	- summary: 利用毫秒脉冲星作为探针探测银河系球状星团中的中等质量黑洞(IMBHs)
+
+- [Chasing the break: Tracing the full evolution of a black hole X-ray binary jet with multi-wavelength spectral modeling](https://arxiv.org/abs/2311.11523)
+	- 发了很多篇 nature 的源 **MAXI J1820+070**，这个源很近很亮可以解释很多以前未知的东西
+
+## Wed, 22 Nov
+
+## Thu, 23 Nov
+- [Variation of the stellar initial mass function in semi-analytical models III: testing the cosmic ray regulated integrated galaxy-wide initial mass function](https://arxiv.org/abs/2311.12932) Fabio Fontanot (INAF, 意大利 Trieste 天文台), Francesco La Barbera, Gabriella De Lucia
+	- **前情提要** : 
+		- 在之前的工作中，提出了 CR-IGIMF：一种变化的恒星初始质量函数的方案，这种方法结合了宇宙线对恒星形成气体的热状态的作用，分析了 integrated galaxy-wide IMF.
+	- **summary** : 
+		- 本工作中，研究了这种情况对本地早型星系 (local Early-Type galaxies, ETG) 的性质的影响，ETG 的性质通过动力学、测光和光谱研究得出。
+		- 在星系演化与组装 (GAEA) 模型的框架下实现了一个 CR-IGIMF 形状库 : We implement a library of CR-IGIMF shapes in the framework of the Galaxy Evolution and Assembly (GAEA) model.
+		- 对每个模型星系给出模版光谱能量分布，直接推倒出低质量恒星在平均 IMF 中的质量分数 (i.e. the dwarf-to-giant ratio - $f_{dg}$)，并比较了对光谱特征敏感的 IMF
+	- **findings** ：
+		- CR-IGIMF 能够正确再现在 z～0 处观测到的动力学质量 (mass-to-light ratios) 相对于光谱 (测光) 估计的过量 (assuming a universal, MW-like, IMF, and the observed increase of [α/Fe] ratios with stellar mass in spheroidal galaxies)
+		- 能够重现 $f_{dg}$ 的递增趋势，以及 IMF-sensitive line-strengths with velocity dispersion， 虽然模型预测的关系明显低于观测
