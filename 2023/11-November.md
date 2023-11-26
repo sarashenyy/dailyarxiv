@@ -141,7 +141,26 @@
 
 # Week 48
 ## Mon, 20 Nov
-- [Ursa Major III/UNIONS 1: the darkest galaxy ever discovered?](IMF-sensitive line-strengths with velocity dispersion) [Raphaël Errani](https://arxiv.org/search/astro-ph?searchtype=author&query=Errani%2C+R), [Julio F. Navarro](https://arxiv.org/search/astro-ph?searchtype=author&query=Navarro%2C+J+F), Simon E. T. Smith
+- [Ursa Major III/UNIONS 1: the darkest galaxy ever discovered?](IMF-sensitive line-strengths with velocity dispersion) Raphaël Errani, Julio F. Navarro, Simon E. T. Smith
+	- Urea Major III/UNIONS 1 (UMa3/U1): 
+		- 目前已知最暗的银河系卫星，质量为$16^{+6}_{-5}\, \rm M_\odot$, 半光半径为 $3\pm 1$ pc，它可能是当前发现的最暗的星系，也可能是最暗的围绕银河系旋转的自引力束缚的星团。
+		- 它的视向速度弥散表明它可能有暗物质的存在，但是因为双星弥散的贡献不能确定所以并不能确定一定有暗物质。
+	- **summary** : 
+		- 使用N-体模拟的方法，发现如果这个系统是自引力束缚的，那么它在银河系的潮汐场中只能存在一个轨道周期 (~0.4 Gyr)。这个证据表明该系统稳定存在的原因可能是它有大量的暗物质。
+		- 如果 UMa3/U1 是在一个以 ~$10^9\rm M_\odot$ 为中心的 cusp $\Lambda$CMD halo 中形成的话，它的速度弥散大约为 ～1 km/s，与现在观测的差不多（忽略双星，将$\sigma_{\rm los}$ 放在 1 - 4 km/s）。因为有这样的 dense cusp 的存在，这个暗晕应该就能从银河系的潮汐场中存活至今。
+		- 推测 UMa3/U1 很可能是最暗最致密的银河系矮星系，能够对 $\Lambda$CMD 模型在星系形成上给出最小的 halo mass 阈值。
+
+- [The discovery of the faintest known Milky Way satellite using UNIONS](https://arxiv.org/abs/2311.10147) Simon E.T. Smith, William Cerny, Christian R. Hayes
+	- 发现了Urea Major III/UNIONS 1 (UMa3/U1)
+
+- [Galaxy stellar and total mass estimation using machine learning](https://arxiv.org/abs/2311.10351) Jainism Chu, Hongming Tang(唐弘铭，清华), Dandan Xu
+	- **background** : 传统的星系质量测量方法收到模型假设和简并 degeneracy 的影响，机器学习方法可以减少对假设的依赖，可以用于确定目前的观测结果能在多大程度上预测恒星和暗物质的分布
+	- **summary** : 
+		- 使用 **TNG100** 中的模拟数据，基于**多分支的卷积神经网络** multi-branch convolutional neural network (CNN)，预测中心质量和质光关系: the central (i.e., within $1-2$ effective radii) stellar and total masses, and the stellar mass-to-light ratio $M_*/L$
+		- 模型输入为星系图片和空间可分辨的平均速度和速度弥散图：galaxy images and spatially-resolved mean velocity and velocity dispersion maps
+		- 优势：基于CNN的模型能够去除重子物质 baryonic和暗物质之间的简并，可以对这两种成分的单独贡献作出可靠的预测
+		- 发现星系光度对中心区域素有质量的预测都有主导作用，其次是速度弥散。
+		- 特征重要性分析：investigate the main contributing features when predicting stellar and dark matter mass fractions ($f_*$, $f_{\rm DM}$) and the dark matter mass $M_{DM}$
 
 ## Tue, 21 Nov
 - [Mass ratio estimates for overcontact binaries using the derivatives of light curves](https://arxiv.org/abs/2311.10949) Shinjirou Kouzuma
@@ -160,7 +179,6 @@
 -  [On the co-rotation of Milky Way satellites: LMC-mass satellites induce apparent motions in outer halo tracers](https://arxiv.org/pdf/2311.11359)
 	- summary: 认为 LMC 会影响 MW 外晕的恒星的转动
 
-
 - [Evidence of Dark Contents in the Center of NGC 6517](https://arxiv.org/abs/2311.11478)
 	- summary: 利用毫秒脉冲星作为探针探测银河系球状星团中的中等质量黑洞(IMBHs)
 
@@ -169,10 +187,11 @@
 
 ## Wed, 22 Nov
 
+
+
 ## Thu, 23 Nov
 - [Variation of the stellar initial mass function in semi-analytical models III: testing the cosmic ray regulated integrated galaxy-wide initial mass function](https://arxiv.org/abs/2311.12932) Fabio Fontanot (INAF, 意大利 Trieste 天文台), Francesco La Barbera, Gabriella De Lucia
 	- **前情提要** : 
-		- 在之前的工作中，提出了 CR-IGIMF：一种变化的恒星初始质量函数的方案，这种方法结合了宇宙线对恒星形成气体的热状态的作用，分析了 integrated galaxy-wide IMF.
 	- **summary** : 
 		- 本工作中，研究了这种情况对本地早型星系 (local Early-Type galaxies, ETG) 的性质的影响，ETG 的性质通过动力学、测光和光谱研究得出。
 		- 在星系演化与组装 (GAEA) 模型的框架下实现了一个 CR-IGIMF 形状库 : We implement a library of CR-IGIMF shapes in the framework of the Galaxy Evolution and Assembly (GAEA) model.
