@@ -207,7 +207,6 @@
 
 ## Thu, 23 Nov
 - [Variation of the stellar initial mass function in semi-analytical models III: testing the cosmic ray regulated integrated galaxy-wide initial mass function](https://arxiv.org/abs/2311.12932) Fabio Fontanot (INAF, 意大利 Trieste 天文台), Francesco La Barbera, Gabriella De Lucia
-	- **前情提要** : 
 	- **summary** : 
 		- 本工作中，研究了这种情况对本地早型星系 (local Early-Type galaxies, ETG) 的性质的影响，ETG 的性质通过动力学、测光和光谱研究得出。
 		- 在星系演化与组装 (GAEA) 模型的框架下实现了一个 CR-IGIMF 形状库 : We implement a library of CR-IGIMF shapes in the framework of the Galaxy Evolution and Assembly (GAEA) model.
