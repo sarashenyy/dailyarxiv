@@ -217,3 +217,22 @@
 
 ## Fri, 24 Nov
 >Happy Thanksgiving ! 🎃
+
+# Week 49
+## Mon, 27 Nov
+- [Possibilities of Identifying Members from Milky Way Satellite Galaxies using Unsupervised Machine Learning Algorithms](https://arxiv.org/abs/2311.14102) Devika K Divakar, Pallavi Saraf, Sivarani Thirupathi
+	- **background** : 对**银河系卫星星系中的星族调查**目前在观测上是一个挑战，由于它们很微弱，光谱确认的**成员星**很少。
+	- **summary** : 
+		- 使用**无监督学习**的方法，基于GaiaDR3的测光数据，the Dark Energy Survey (DES)，the DECam Local Volume Exploration Survey (DELVE) photometry，确认**9个银河系卫星星系的成员星**。
+		- 前人的研究：已经有基于密度的聚类算法，DBSCAN和HDBSCAN，在四维天测参数空间识别了银河系卫星星系的成员星
+		- 本工作的结果：能够恢复出80%已经使用光谱方法认证的成员星，也能够排除95-100%的非光谱成员。使用本工作的新方法新发现了许多成员星。与前人也使用光度和测光数据的工作进行了比较。
+
+- [The origin of the metallicity distributions of the NE and W stellar shelves in the Andromeda Galaxy](https://arxiv.org/abs/2311.14252) Stanislav Milošević, Miroslav Mićić, Geraint F. Lewis
+	- **background** :
+		- **潮汐流**和**恒星壳**是在星系相互作用和合并中自然形成的：**Tidal streams** and **stellar shells** are naturally formed in galaxy interactions and mergers
+		- **The Giant Stellar Stream (GSS)**, **the North-East (NE)**, and **Western (W) stellar shelves**：M31中的这些结构是M31在与一个卫星星系合并是形成的
+	- **summary** : 
+		- 研究了 NE 与 W 恒星壳的形成的它们与GSS的关系
+		- 假设卫星星系是 GSS 与恒星壳的前身，对它的潮汐瓦解过程做了数值模拟
+		- progenitor as a **dwarf spheroidal galaxy** with the stellar mass of $10^9\rm M_{\odot}$ and evolve its merger with M31 for 3 Gyrs to reproduce the chemodynamical properties of the NE and W shelves
+		- find that an **initial metallicity** of the progenitor with a **negative radial gradient** of Δ FeH = -0.3 ± 0.2, successfully **reproduces observed metallicities** of the NE, W shelves, and the GSS, showing that all these structures can originate from the same merger event.

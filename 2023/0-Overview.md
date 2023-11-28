@@ -13,7 +13,7 @@
 - Why Galaxies are Indeed Simpler than Expected
 - Galaxy Spectra neural Network (GaSNet). II. Using Deep Learning for Spectral Classification and Redshift Predictions
 
-[Tue, 9 Nov](11-November.md#thu-9-nov)
+[Thu, 9 Nov](11-November.md#thu-9-nov)
 - The Future of Astronomical Data Infrastructure: Meeting Report
 
 [Fri, 10 Nov](11-November.md#fri-10-nov)
@@ -32,9 +32,33 @@
 - Evaporation Ages: a New Dating Method for Young Star Clusters
 - MCMC to address model misspecification in Deep Learning classification of Radio Galaxies
 
-[Tue, 16 Nov](11-November.md#thu-16-nov)
+[Thu, 16 Nov](11-November.md#thu-16-nov)
 - On the mass and wind luminosity of young Galactic open clusters in Gaia DR2
 - The POKEMON Speckle Survey of Nearby M dwarfs. II. Observations of 1124 Targets
 
 [Fri, 17 Nov](11-November.md#fri-17-nov)
 - Optical polarisation study of Galactic Open clusters
+
+## Week 38, November
+[Mon, 20 Nov](11-November.md#mon-20-nov)
+- Ursa Major III/UNIONS 1: the darkest galaxy ever discovered?
+- The discovery of the faintest known Milky Way satellite using UNIONS
+- Galaxy stellar and total mass estimation using machine learning
+
+[Tue, 21 Nov](11-November.md#tue-21-nov)
+- Mass ratio estimates for overcontact binaries using the derivatives of light curves
+- Apparent effect of dust extinction on the observed outflow velocity of ionized gas in galaxy mergers
+- G213.0−0.6, a true supernova remnant or just an HII region?
+- On the co-rotation of Milky Way satellites: LMC-mass satellites induce apparent motions in outer halo tracers
+- Evidence of Dark Contents in the Center of NGC 6517
+- Chasing the break: Tracing the full evolution of a black hole X-ray binary jet with multi-wavelength spectral modeling
+
+[Wed, 22 Nov](11-November.md#wed-22-nov)
+- Intermediate-Mass Black Holes in Star Clusters and Dwarf Galaxies
+- Nebular dominated galaxies in the early Universe with top-heavy stellar initial mass functions
+
+[Thu, 23 Nov](11-November.md#thu-23-nov)
+- Variation of the stellar initial mass function in semi-analytical models III: testing the cosmic ray regulated integrated galaxy-wide initial mass function
+
+[Fri, 24 Nov](11-November.md#fri-24-nov)
+>Happy Thanksgiving ! 🎃
