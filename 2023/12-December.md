@@ -31,3 +31,13 @@
 		- azimuthal profile of non-thermal emission can be interpreted by an axisymmetric large-scale nagnetic field with varing pitch angle long the ring, indicating a complicated magnetic field  configuration in M31: 非热发射的方位角剖面可以用轴对称大尺度磁场来解释，该磁场沿环的俯仰角不断变化，表明 M31 中的磁场构造非常复杂
 
 ## Tue, 5 Dec
+
+
+## Wed, 6 Dec
+- [Young, wild and free: the early expansion of star clusters](https://arxiv.org/abs/2312.02263) Alessandro Della Croce, Emanuele Dalessandro, Alexander R. Livernois
+	- **background** : our understanding of **cluster expansions** based only on **indirect evidence** or **statistically limited samples**.
+	- **data** (*large sample*): Gaia DR3, **all** know **young** ($t<300\rm{Myr}$) Galactic clusters 
+	- *present a comprehensive kinematic analysis*
+	- 
+
+
