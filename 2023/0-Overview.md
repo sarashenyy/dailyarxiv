@@ -1,4 +1,4 @@
-## Week 46, November
+## Week 45, November
 [Mon, 6 Nov](11-November.md#mon-6-nov)
 - Filamentary structures as the origin of blazar jet radio variability
 - Core-collapse supernova inside the core of a young massive star cluster: 3D MHD simulations
@@ -20,7 +20,7 @@
 - Two Watts is All You Need: Enabling In-Detector Real-Time Machine Learning for Neutrino Telescopes Via Edge Computing
 - An evolutionary continuum from nucleated dwarf galaxies to star clusters
 
-## Week 47, November
+## Week 46, November
 [Mon, 13 Nov](11-November.md#mon-13-nov)
 - Imprints of Sagittarius accretion event: Young O-rich stars and discontinuous chemical evolution in Milky Way disc
 
@@ -39,7 +39,7 @@
 [Fri, 17 Nov](11-November.md#fri-17-nov)
 - Optical polarisation study of Galactic Open clusters
 
-## Week 38, November
+## Week 47, November
 [Mon, 20 Nov](11-November.md#mon-20-nov)
 - Ursa Major III/UNIONS 1: the darkest galaxy ever discovered?
 - The discovery of the faintest known Milky Way satellite using UNIONS
@@ -62,3 +62,5 @@
 
 [Fri, 24 Nov](11-November.md#fri-24-nov)
 >Happy Thanksgiving ! 🎃
+
+## Week 48, November
