@@ -1,4 +1,4 @@
-# Week 46
+# Week 45
 ## Mon, 6 Nov
 
 >今日陆老师名言 ： 我不在乎这个工作能不能发nature，我做得开心就行 🐶 
@@ -65,7 +65,7 @@
 	- **background** : In the nearby Universe, there are **hundreds** of **ultra-compact dawrf galaxies** (UCDs), with half-light radii $r_{h}$ of approximatesly **10-100 parsecs** and **stellar masses** $\approx 10^6-10^8 M_{\odot}$ . The detection of extended stellar envelopes, complex star formation histories, elecates mass-to-light ratio and supermassive black holes suggests that some UCDs are **remnant nuclear star clusters** of **tidally stripped dawrf galaxies** or even ancient compact galaxies. However, only a **few** objects have been found in the transient stage of tidal stripping. 超致密矮星系可能是潮汐剥离矮星系的残余核星团，但观测中只看到了很少的正在进行潮汐剥离的矮星系，这种猜测的演化道路并没有被完全追踪。
 	- **summary** : show **106 galaxies** in the Virgo cluster have **morphologies** that are intermediate between normal, nucleated dwarf galaxies and single-component UCDs, revealing a continuum that **fully maps this morphological transition** and **fills the ‘size gap’ between star clusters and galaxies.**
 
-# Week 47
+# Week 46
 ## Mon, 13 Nov
 - [Imprints of Sagittarius accretion event: Young O-rich stars and discontinuous chemical evolution in Milky Way disc](https://arxiv.org/abs/2311.05815)
 	- **status** : Under review at **Nature Communications**
@@ -139,7 +139,7 @@
 		- 测量得到的偏振信息用于检查尘埃分布情况和对选定平面上的磁场(The measured polarisation results used to scrutinize the dust distribution and orientation of the local plane of sky magnetic fields towards selected directions.)
 		- 发现遥远的 King8 有2个前景层分别位于～500pc和～3500pc。对不同的星团也发现了多个尘埃层。
 
-# Week 48
+# Week 47
 ## Mon, 20 Nov
 - [Ursa Major III/UNIONS 1: the darkest galaxy ever discovered?](IMF-sensitive line-strengths with velocity dispersion) Raphaël Errani, Julio F. Navarro, Simon E. T. Smith
 	- Urea Major III/UNIONS 1 (UMa3/U1): 
@@ -187,7 +187,7 @@
 
 ## Wed, 22 Nov
 - [Intermediate-Mass Black Holes in Star Clusters and Dwarf Galaxies](https://arxiv.org/abs/2311.12118) Abbas Askar, Vivienne F. Baldassare, Mar Mezcuz
-	- **comments** : 《To appear in Chapter 2 in the book Black Holes in the Era of Gravitational Wave Astronomy》 Chapter 2
+	- **comments** : To appear in Chapter 2 in the book 《Black Holes in the Era of Gravitational Wave Astronomy》 Chapter 2
 	- **background** : 
 		- **Intermediate-mass black holes** 质量范围在 100-100,000 $\rm M_{\odot}$，可能是恒星质量黑洞和超大质量黑洞之间的缺失环节。
 		- 当恒星初始质量大于20 $\rm{M}_{\odot}$时，**恒星质量黑洞**是这种恒星演化的终点，恒星级黑洞的质量在 10-100 $\rm{M}_{\odot}$。
@@ -214,11 +214,12 @@
 	- **findings** ：
 		- CR-IGIMF 能够正确再现在 z～0 处观测到的动力学质量 (mass-to-light ratios) 相对于光谱 (测光) 估计的过量 (assuming a universal, MW-like, IMF, and the observed increase of [α/Fe] ratios with stellar mass in spheroidal galaxies)
 		- 能够重现 $f_{dg}$ 的递增趋势，以及 IMF-sensitive line-strengths with velocity dispersion， 虽然模型预测的关系明显低于观测
+	![[11-November-2.png]]
 
 ## Fri, 24 Nov
 >Happy Thanksgiving ! 🎃
 
-# Week 49
+# Week 48
 ## Mon, 27 Nov
 - [Possibilities of Identifying Members from Milky Way Satellite Galaxies using Unsupervised Machine Learning Algorithms](https://arxiv.org/abs/2311.14102) Devika K Divakar, Pallavi Saraf, Sivarani Thirupathi
 	- **background** : 对**银河系卫星星系中的星族调查**目前在观测上是一个挑战，由于它们很微弱，光谱确认的**成员星**很少。
@@ -236,3 +237,81 @@
 		- 假设卫星星系是 GSS 与恒星壳的前身，对它的潮汐瓦解过程做了数值模拟
 		- progenitor as a **dwarf spheroidal galaxy** with the stellar mass of $10^9\rm M_{\odot}$ and evolve its merger with M31 for 3 Gyrs to reproduce the chemodynamical properties of the NE and W shelves
 		- find that an **initial metallicity** of the progenitor with a **negative radial gradient** of Δ FeH = -0.3 ± 0.2, successfully **reproduces observed metallicities** of the NE, W shelves, and the GSS, showing that all these structures can originate from the same merger event.
+
+## Tue, 28 Nov
+- [Status of Women in Astronomy: A need for advancing inclusivity and equal opportunities](https://arxiv.org/abs/2311.15364) Mamta Pandey-Pommier, Arianna Piccialli, Belinda J. Wilkes
+	- A compregensive **four point plan** established by a new organizing committee established by the **IAU WiA working Group**, in **August 2021**:
+		- (i) Awareness Sustainability: Achieved through surveys and data collection
+		- (ii) Training and Skill Building: Focused on professional development
+		- (iii) Fundraising: To support key initiatives
+		- (iv) Communication: Dissemination of results through conferences, WG Magazines, newsletters, and more.
+
+- [The Influence of the Bar on the Dynamics of Globular Clusters in the Central Region of the Milky Way. Frequency Analysis of Orbits According to Gaia EDR3 Data](https://arxiv.org/abs/2311.14789) A.T.Bajkova, A.A.Smirnov, V.V.Bobylev
+	- **aim** : the influence of the bar on the orbital dynamics of globular clusters 星系棒对球状星团轨道动力学的影响
+	- The orbits of **45 globular clusters** in the **central galactic region** with a **radius of 3.5 kpc** were analyzed using **spectral dynamics methods** in order to identify objects captured by the bar: 距离银心半径为3.5kpc的45个球状星团
+	- **data** : Gaia DR3, 6D phase & new refined average distances to GCs
+	- **results** : 
+		- First get an analytical expression for the dependence of the dominant frequency $f_{x}$ on the angular velocity of rotation of the bar : 首次获得了主频 fX 与棒材旋转角速度关系的分析表达式
+		- the probabilities of capturing globular clusters by the bar were determined when the bar parameters were varied in certain ranges of values according to a random distribution law : 根据随机分布定律，确定了当棒参数在一定数值范围内变化时，棒捕获球状星团的概率
+		- given **14 GCs** with the most capture probabilities, with **five GCs** - NGC6266, NGC6569, Terzan 5, NGC6522, NGC6540 - showing the probability capture by bar $\geq$ 0.2
+
+- [Measuring the Initial-Final Mass-Relation using wide double white dwarf binaries from Gaia DR3](https://arxiv.org/abs/2311.14801) Mark A. Hollands, Stuart P. Littlefair, Steven G. Parsons
+	- **IFMR** (Initial-Final Mass-Relation)
+		- **meaning** : maps the masses of main sequence stars to their white dwarf descendants 将主序星的质量映射到它们的白矮星后代上
+		- **methods** : use white dwarfs in clusters(most common approach), wide double white dwarfs with Bayesian approach
+	- **data** : 90 Gaia double white dwarfs usinf FORS2 on the VLT, Very Large Telescope (VLT) Focal Reducer and Low Dispersion Spectrograph (FORS2); 52 DA+DA, DA+DC, and DC+DC pairs
+	- **method** : Bayesian mixture-model
+	- **results** : 
+		- **monotonic IFMR** well constrained for **initial masses of 1-5 Msun**, with the range 1-4 Msun mostly constrained to **a precision of 0.03 Msun** or better：在初始质量为1-5 Msun的情况下，单调IFMR受到了观测数据的良好约束，而在1-4 Msun的范围内，大部分的约束精度为0.03 Msun或更高
+		- find a large but uncertain outlier fraction of 59±21 percent, with outlier systems requiring an additional $0.70^{+0.40}_{−0.22}$ Gyr uncertainty in their cooling age differences, find this fraction is dominated by a few systems with massive components near 0.9 Msun, where we are most sensitive to outliers, but are also able to establish four systems as merger candidates ：没明白
+
+- [Great Balls of FIRE III: Modeling Black Hole Mergers from Massive Star Clusters in Simulations of Galaxies](https://arxiv.org/abs/2311.14855) Tristan Bruel, Carl L. Rodriguez, Astrid Lamberts
+	- **previous works**: 
+		- [Great Balls of FIRE I: The formation of star clusters across cosmic time in a Milky Way-mass galaxy](https://arxiv.org/abs/2203.05732) Michael Y. Grudić, Zachary Hafen, Carl L. Rodriguez
+		- [Great Balls of FIRE II: The evolution and destruction of star clusters across cosmic time in a Milky Way-mass galaxy](https://arxiv.org/abs/2203.16547) Carl L. Rodriguez, Zachary Hafen, Michael Y. Grudić
+	- **background** : the origin of **merging binary black holes (BBHs)** remains unclear, two main formation
+		1. from **isolated field binaries** 孤立的双星
+		2. via **dynamical assemble** in dense star clusters 致密星团的动力学
+	- **method** : 
+		- in **zoom-in cosmological simulation**, using a new framework to consistently model the **formation and evolution of massive star clusters**
+		- combined with the star cluster evolution code **CMC**, produced **populations of dynamically formed merging BBHs** across cosmic time in **different environments**
+	- **results** : 
+		- as the most massive clusters preferentially form in dense massive gas clouds, despite their low metallicities favourable to the creation of black holes, low-mass galaxies contain few massive clusters and therefore have a limited conrtibution to the global production of dynamically formed merging BBHs 大质量星团由于其低金属丰度，是有利于产生黑洞的，但是大质量星团是在致密气体云中诞生的，而低质量星系中并没有很多大质量星团，所以来自其的BBH合并并没有那么多
+		- find strong correlations between BBH mergers and the most extreme episodes of star formation 发现BBH合并与极端恒星形成事件有强相关性
+
+## Wed, 29 Nov
+- [Asteroseismology of the young open cluster NGC 2516 I: Photometric and spectroscopic observations](https://arxiv.org/abs/2311.16991) Gang Li, Conny Aerts, Timothy R. Bedding
+	- **background** : the difficulty in determining stellar age make asteroseismic modelling hard for isolated stars, this challenge can be overcomed by observing stars in open clusters 由于难以精确测定恒星参数（特别是年龄），对单一恒星的星震学模型难以构建，这一困难可以通过使用星团数据解决
+	- **data** ：
+		- light curves from **TESS** FFI , 301 member stars in **NGC 2516**
+		- high resoluation spectra from FEROS for the g-mode pulsators
+	- **method** : fitting theoretical isochrones to the CMD, find age is $102\pm15 \rm$ Myr, extinction at 550nm is $0.53\pm0.04$ mag 
+
+## Thu, 30 Nov
+- [Globular Clusters Contribute to the Nuclear Star Cluster and Galaxy Center Gamma-Ray Excess, Moderated by Galaxy Assembly History](https://arxiv.org/abs/2311.17071) Yuan Gao, Hui Li (清华), Xiaojia ZHang
+	- **background** : 
+		- two unresolved questions at **galaxy centers**, namely the **formation of nuclear star cluster (NSC)** and the origin of the **gamma-ray excess** in the Milky Way (MW) and Andromeda (M31), are both related to the formation and evolution of **globular cluster**. 关于星系中心的两个谜题，核星团的形成，银心及M31中心的伽马超射，都与球状星团有关
+		- globular cluster migrate towards galaxy center due to dymanical friction, and get tidally disruoted to release the stellar mass content including **millisecond pulsars (MSPs)**, which contribute to the NSC and gamma-ray excess 球状星团在动力学摩擦的作用下向星系中心迁移，收到潮汐扰动，贡献出恒星质量，包括毫秒脉冲星，从而导致核星团的形成和伽马超射
+	- **method** : 
+		- proposed  a **semi-analytical model** of GC formation and evolution using **Illustris** simulation 用 Illustris 模拟构建了一个 GC 形成和演化的半解析模型
+		- utilize the catalog of Illustris halos to investigate the influence of galaxy assembly history 用 Illustris 的晕表研究星系组装历史
+	- **results** : 
+		- simulated GC properties at z=0 are consistent with obervations, naturally explains the formation of massive NSC in MW-like and M31-like galaxies 模拟结果与当前观测数据类似，自然解释了在类银河系星系中核星团的成因
+		- find a remarkable similarity in gamma-ray excess signal between thsi simulation and the MW, fall short by approximately an order of magnitude in M31, indicating distinct origins for the two gamma-ray excesses 对伽马超射的预测，模拟模型与银河系类似，比M31少了一个量级，意味着银河系与M31的伽马超射成因可能不同
+		- find that the earlier a galaxy is assembled, the heavier and spatially more concentrated it GC system behaves at z=0, which results in a larger NSC mass and brighter gamma-ray emission from deposited MSPs 当星系组装的时间越早，其中的 GC 在 z=0 时会表现得重、空间上越集中，意味着有大质量的核星团和来自 MSPs 的更亮的伽马超射
+
+## Fri, 1 Dec
+- [Nature vs. Nurture: Revisiting the environmental impact on star formation activities of galaxies](https://arxiv.org/abs/2311.18427) Ke Shi (西南大学), Nicola Malavasi, Jun Toshikawa, Xianzhon Zheng 
+	- present a systematic study of **environmental impact on star formation activities of galaxies** using a mass-complete sample of **~170k galaxies** at **z < 4** from the latest **COSMOS2020 catalog**
+	- **at z < 1** : 
+		- find that **mean star formation rate (SFR) of all galaxies decreases with increasing density of the environment** 对整体星系样本来说，环境密度越大，恒星形成率越低
+		- However, when consider only **star-forming galaxies**, the mean SFR becomes **independent** of the environment 当只考虑恒星形成星系时，平均恒星形成率与环境无关
+	- **at z > 2** : 
+		- observe a clear **positive correlation bewteen the SFR and density** of the environment for **all galaxies** 观察到所有星系的恒星形成率与环境密度成明显正相关
+		- However, stellar mass of the galaxies increases significantly with the environments at all redshifts except for star-formaing galaxies at z < 1 除了 z < 1 时的恒星形成星系之外，所有红移下星系的恒星质量都会随着环境变化而显著增加
+	- the fraction of **quiescent galaxies increases with incresing density** of environments **at z < 2**, the **"morphology-density" relation** is confirmes to **be present up to z ~ 1** 在红移小于2时，淬火星系的比例随着环境密度的增加而增加，“形态-密度”关系在红移为 1 时依旧存在
+	- find that **environmental quenching is negligible at z ~ 1**, whereas **mass quenching** is the dominant quenching mechanism for massive galaxies at all redshifts 环境淬火在红移为 1 时可以忽略不计， 而质量淬火则是大质量星系在所有红移下的主要淬火机制
+	- **conclusion** : 
+		- based on the above results, authors argue that **stellar mass regulated physical process** might be the **major driving force** for star formation of galaxies 基于以上发现， 作者认为恒星质量调节的物理过程可能是星系恒星形成的主要驱动力
+		- At low redshift (z < 1) massive galaxies are quenched primarily due to their high mass, resulting in a normal "SFR-density" relation. 在低红移时，大质量星系主要由于质量大而被淬火，从而形成正常的 "SFR-密度" 关系
+		- At high redshift (z > 2) most of the galaxies are star-forming ones tightly following the star-forming main sequence, and the difference in their stellar mass at different environments naturally leads to a reversal of "SFR-density"relation. 在高红移时，大多数星系都是恒星形成星系，它们在不同环境下恒星质量的差异会自然地导致反转的 “SFR-密度” 关系
