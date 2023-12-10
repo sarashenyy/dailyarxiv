@@ -64,3 +64,21 @@
 >Happy Thanksgiving ! 🎃
 
 ## Week 48, November
+[Mon, 27 Nov](11-November.md#mon-27-nov)
+- Possibilities of Identifying Members from Milky Way Satellite Galaxies using Unsupervised Machine Learning Algorithms
+- The origin of the metallicity distributions of the NE and W stellar shelves in the Andromeda Galaxy
+
+[Tue, 28 Nov](11-November.md#tue-28-nov)
+- Status of Women in Astronomy: A need for advancing inclusivity and equal opportunities
+- The Influence of the Bar on the Dynamics of Globular Clusters in the Central Region of the Milky Way. Frequency Analysis of Orbits According to Gaia EDR3 Data
+- Measuring the Initial-Final Mass-Relation using wide double white dwarf binaries from Gaia DR3
+- Great Balls of FIRE III: Modeling Black Hole Mergers from Massive Star Clusters in Simulations of Galaxies
+
+[Wed, 29 Nov](11-November.md#wed-29-nov)
+- Asteroseismology of the young open cluster NGC 2516 I: Photometric and spectroscopic observations
+
+[Thu, 30 Nov](11-November.md#thu-30-nov)
+- Globular Clusters Contribute to the Nuclear Star Cluster and Galaxy Center Gamma-Ray Excess, Moderated by Galaxy Assembly History
+
+[Fri, 1 Dec](11-November.md#fri-1-dec)
+- Nature vs. Nurture: Revisiting the environmental impact on star formation activities of galaxies
