@@ -288,7 +288,7 @@
 	- **method** : fitting theoretical isochrones to the CMD, find age is $102\pm15 \rm$ Myr, extinction at 550nm is $0.53\pm0.04$ mag 
 
 ## Thu, 30 Nov
-- [Globular Clusters Contribute to the Nuclear Star Cluster and Galaxy Center Gamma-Ray Excess, Moderated by Galaxy Assembly History](https://arxiv.org/abs/2311.17071) Yuan Gao, Hui Li (清华), Xiaojia ZHang
+- [Globular Clusters Contribute to the Nuclear Star Cluster and Galaxy Center Gamma-Ray Excess, Moderated by Galaxy Assembly History](https://arxiv.org/abs/2311.17071) Yuan Gao, Hui Li (清华), Xiaojia Zhang
 	- **background** : 
 		- two unresolved questions at **galaxy centers**, namely the **formation of nuclear star cluster (NSC)** and the origin of the **gamma-ray excess** in the Milky Way (MW) and Andromeda (M31), are both related to the formation and evolution of **globular cluster**. 关于星系中心的两个谜题，核星团的形成，银心及M31中心的伽马超射，都与球状星团有关
 		- globular cluster migrate towards galaxy center due to dymanical friction, and get tidally disruoted to release the stellar mass content including **millisecond pulsars (MSPs)**, which contribute to the NSC and gamma-ray excess 球状星团在动力学摩擦的作用下向星系中心迁移，收到潮汐扰动，贡献出恒星质量，包括毫秒脉冲星，从而导致核星团的形成和伽马超射
