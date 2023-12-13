@@ -28,16 +28,26 @@
 		- receals weak emission outside the ring
 		- drive a scale length of 2.7 kpc for the cosmic ray electrons, find that propagate mainly through diffusion：推导出宇宙射线电子长度为2.7 kpc，发现宇宙射线电子主要通过扩散传播
 		- spectral index of the total intensity caries along the ring, due to thw variation of the spectra of synchrontron emission, likely caused by the change of star formation rates along the ring：总强度的谱指数沿环变化，可以归因于同步辐射光谱的变化，这种变化很可能是由于沿环的恒星形成率不同造成的
-		- azimuthal profile of non-thermal emission can be interpreted by an axisymmetric large-scale nagnetic field with varing pitch angle long the ring, indicating a complicated magnetic field  configuration in M31: 非热发射的方位角剖面可以用轴对称大尺度磁场来解释，该磁场沿环的俯仰角不断变化，表明 M31 中的磁场构造非常复杂
+		- azimuthal profile of non-thermal emission can be interpreted by an axisymmetric large-scale nagnetic field with varing pitch angle long the ring, indicating a complicated magnetic field  configuration in M31: 非热发射的方位角剖面可以用轴对称大尺度磁场来解释，该磁场沿环的俯仰角不断变化，表明 M31 中的磁场构造很复杂
 
 ## Tue, 5 Dec
-
+- [Generating Images of the M87* Black Hole Using GANs](https://arxiv.org/abs/2312.01005)Arya Mohan, Pavlos Protopapas, Keerthi Kunnumkai
+	- 
 
 ## Wed, 6 Dec
 - [Young, wild and free: the early expansion of star clusters](https://arxiv.org/abs/2312.02263) Alessandro Della Croce, Emanuele Dalessandro, Alexander R. Livernois
 	- **background** : our understanding of **cluster expansions** based only on **indirect evidence** or **statistically limited samples**.
 	- **data** (*large sample*): Gaia DR3, **all** know **young** ($t<300\rm{Myr}$) Galactic clusters 
 	- *present a comprehensive kinematic analysis*
-	- 
+	- **results** : 
+		- find up to 80% of clusters younger than ~30 Myr is currently experiencing significant expansian, whereasa older systems are mostly compatible with equilibrium configurations 年龄小于30Myr的80%的星团正在经历显著的膨胀，而更年老的系统则大多符合平衡构型
+		- observe a trend where the expansion speed increases with the clustercentric distance, suggestin clusters undergoing expansioon will likely lose a fraction of their presnt-day mass 发现有膨胀速度随星团中心距离增加而增加的趋势，表明正在经历膨胀的星团很可能会失去当前的一部分质量
+
+- [A new meteor shower from comet 46P/Wirtanen expected in December 2023](https://arxiv.org/abs/2312.02636)
 
 
+## Thu, 7 Dec
+
+
+## Fri, 8 Dec
+- [UOCS-XI. Study of blue straggler stars in open cluster NGC 7142 using UVIT/AstroSat](https://arxiv.org/abs/2312.04057)
