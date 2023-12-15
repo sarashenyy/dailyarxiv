@@ -43,8 +43,8 @@
 		- find up to 80% of clusters younger than ~30 Myr is currently experiencing significant expansian, whereasa older systems are mostly compatible with equilibrium configurations 年龄小于30Myr的80%的星团正在经历显著的膨胀，而更年老的系统则大多符合平衡构型
 		- observe a trend where the expansion speed increases with the clustercentric distance, suggestin clusters undergoing expansioon will likely lose a fraction of their presnt-day mass 发现有膨胀速度随星团中心距离增加而增加的趋势，表明正在经历膨胀的星团很可能会失去当前的一部分质量
 
-- [A new meteor shower from comet 46P/Wirtanen expected in December 2023](https://arxiv.org/abs/2312.02636)
-
+- [A new meteor shower from comet 46P/Wirtanen expected in December 2023](https://arxiv.org/abs/2312.02636)Jeremie Vaubaillon, Qhanzhi Ye, Auriane Egal
+	- 
 
 ## Thu, 7 Dec
 
