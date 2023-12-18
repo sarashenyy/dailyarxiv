@@ -44,7 +44,15 @@
 		- observe a trend where the expansion speed increases with the clustercentric distance, suggestin clusters undergoing expansioon will likely lose a fraction of their presnt-day mass 发现有膨胀速度随星团中心距离增加而增加的趋势，表明正在经历膨胀的星团很可能会失去当前的一部分质量
 
 - [A new meteor shower from comet 46P/Wirtanen expected in December 2023](https://arxiv.org/abs/2312.02636)Jeremie Vaubaillon, Qhanzhi Ye, Auriane Egal
-	- 
+	- Comet 46P/Wirtanen : near-Earth object(NEO), no associated meteor shower 从未有过流星雨报道
+	- **Aim** : 
+		- to understand why there has been no observed shower activity for this NEO to date
+		- to consider whether any past activity could be uncovered from the post-prediction results
+	- **Results** : 
+		- possible encounter forecast for **December 12, 2023, between 8:00 and 12:30 UT** 美国东部标准时间
+		- the activity level is highly uncertain dut to the absence of reported past showers
+		- most observations will be in **Eastern Australia, New Zealand, and Oceania** 澳大利亚东部、新西兰和大洋洲
+		- these observations will help constrain the **size distribution** of meteoroids from comet 46P/Wirtanen in the **millimeter range** 观测结果将有助于确定 46P/Wirtanen 彗星流星体在毫米范围内的大小分布
 
 ## Thu, 7 Dec
 
