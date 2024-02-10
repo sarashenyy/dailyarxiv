@@ -49,13 +49,16 @@
 
 ## Thu, 4 Jan
 - [ALMA-LEGUS I: The Influence of Galaxy Morphology on Molecular Cloud Properties](https://arxiv.org/abs/2401.01450) Molly K. Finn Kelsey E. Johnson, Remy Indebetouw
-
+	- present a **comparative study** of the molecular gas in two galaxies from the **LEGUS** sample: **barred spiral NGC 1313** and **flocculent spiral NGC 7793** 棒旋星系和絮状螺旋星系
+	- two galaxies have **similar masses, metallicities, star formation rates**; whereas NGC 1313 is forming significantly **more massive star clusters** than NGC 7793
 
 - [ALMA-LEGUS II: The Influence of Sub-Galactic Environment on Molecular Cloud Properties](https://arxiv.org/abs/2401.01451) Molly K. Finn, Kelsey E. Johnson, Remy Indebetouw
 
 
 - [Necessary conditions for the formation of filaments and star clusters in the cold neutral medium](https://arxiv.org/abs/2401.01737) Rachel Pillsworth, Ralph E. Pudritz
-
+	- **background**: 
+		- **Star formation** takes place in **filamentary molecular clouds** which arise by physical processes that take place in the **cold, neutral medium (CNM)** 恒星在丝状分子云中形成，丝状分子云由**冷中性介质**中的物理过程产生
+		- address the **necessary conditions** for this diffuse ($n \approx 30$ cm$^{-3}$), cold (T $\approx$ 60 K), magnetized gas undergoing shock waves and supersonic turbulence, **to produce filamentary structures** capable of fragmenting into cluster forming regions 探讨了这种弥漫、低温、磁化气体在冲击波和超音速湍流作用下能够称为星团形成区的丝状分子云的必要条件
 
 - [Did the Gaia Enceladus/Sausage merger form the Milky Way's bar?](https://arxiv.org/abs/2312.02318)Alex Merrow, Robert J. J. Grand, Francesca Fragkoudi
 	- **background**: 
@@ -66,3 +69,14 @@
 		- the Milky Way's bar formation is being triggered primarily via **tidal forces from the GES**
 		- the GES may be responsible for the formation of the Milky Way's bar, as well as for the **build-up of its extended disc**
 		- 银河系棒的形成和扩展盘的形成很可能是GES的潮汐力导致的
+
+## Fri, 5 Jan
+- [The Radcliffe wave parameters from data on open star clusters](https://arxiv.org/abs/2401.02144) Vadim V. Bobylev, Anisa T. Bajkova
+	- [Radcliffe wave](https://en.wikipedia.org/wiki/Radcliffe_wave): 银河系内最大的气体结构，总质量超过300万倍太阳质量，绵延9,000光年长、宽400光年，往银河盘面上下延伸500光年，包含了约8亿颗恒星且充满形成新生恒星的气体，并且，[古尔德带](https://zh.wikipedia.org/wiki/%E5%8F%A4%E7%88%BE%E5%BE%B7%E5%B8%B6)只是拉德克利夫波的其中一小部分。
+	- **data**: **spectral** analysis of the **vertical positions and velocities** of **374 open star clusters** (OCs from Hunt2023 catalogue)
+		- average age of about 10 million years ($10^7$)
+		- located on the galactic plane XY in a narrow zone inclined by 25 degrees to the galactic axis Y
+	- **results**:
+		- a) the maximum value in periodic perturbations of vertical coordinates $Z_{max} =92±10$ pc with the wavelength of these perturbations $λ_z=4.82±0.09$ kpc;
+		- b) ~maximum value of the velocity of vertical disturbances $W_{max}=4.36±0.12 km s^{−1}$ with disturbance wavelength $λ_W=1.78±0.02$ kpc. 
+		- Note that the results of the vertical velocity analysis are first-class in accuracy and completely new.
