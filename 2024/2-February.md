@@ -36,7 +36,21 @@
 	- Such clues give **support** to the hypothesis that the **Stellar Snake constitutes as a hierarchically primordial structure.**
 
 ## Thu, 8 Feb
+- [Euclid: Identifying the reddest high-redshift galaxies in the Euclid Deep Fields with gradient-boosted trees](https://arxiv.org/abs/2402.04800) [Euclid Collaboration](https://arxiv.org/search/astro-ph?searchtype=author&query=Euclid+Collaboration) T. Signor, G. Rodighiero, L. Bisigello (~100 authors)
+	- **status**: accepted in A&A
+	- **background**:
+		- Dusty, distant, massive ($M_*\gtrsim 10^{11}\,\rm M_\odot$) galaxies are usually found to show a remarkable **star-formation** activity, contributing on the order of $25\%$ of the **cosmic star-formation rate density** at $z\approx3$-$5$, and up to $30\%$ at $z\sim7$ from ALMA observations 有很多尘埃的，遥远的巨大的星系贡献了宇宙中很大一部分恒星形成率
+		- Since these objects have **low space densities**, **deep and wide surveys** are necessary to obtain statistically relevant results about them.
+		- Euclid will be **potentially capable** of delivering the required information, **but**, given the lack of spectroscopic features at these distances within its bands, it is still **unclear** if it will be possible to identify and characterize these objects 不清楚Euclid对这些星系有怎样的探测能力
+	- **aim**: assess the **capability of Euclid**, together with ancillary optical and near-infrared data, to identify these distant, dusty and massive galaxies, based on broadband photometry
+	- **method**: used a **gradient-boosting algorithm** to predict both the **redshift** and **spectral type** of objects at high $z$
+	- **results**:
+		- method foound to be **accurate** in predicting both the redshift and spectral type of objects within the Euclid Deep Survey simulated catalog at $z>2$
+		- found that the **dusty population at $3\lesssim z\lesssim 7$ is well identified**, with a redshift RMS and OLF of only $0.55$ and $8.5\%$ ($H_E\leq26$), respectively (through studying the analog of **HIEROs** (i.e. sources with $H-[4.5]>2.25$), combining Euclid and **Spitzer** data at the depth of the Deep Fields,)
+		- with Euclid we will obtain meaningful insights into the role of massive and dusty galaxies in the cosmic star-formation rate over time
 
+## Fri, 9 Feb
+- 
 
 # Week 7
 
