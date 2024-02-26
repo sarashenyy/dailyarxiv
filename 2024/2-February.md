@@ -31,10 +31,30 @@
 	- Temporal variations in the **photometry are generally $\lesssim0.01$ mag**, although rare large misalignment events can introduce errors up to 0.08 mag.
 
 - [The Stellar "Snake" -- II: The Mass Function](https://arxiv.org/abs/2402.04130) Xiang-Ming Yang, Sarah A. Bird, Jiadong Li
-	- 
+	- develop a simulated model color-magnitude diagram-based inference method to derive **the mass function, binary fraction, and mass-ratio distribution** of the clusters in the Stellar Snake
+	- The ''head'' of the Snake conforms to a canonical initial mass function with a power-law slope of α∼−2.3. Extending towards the ''tail'' the MF becomes **more top-light**, indicating a deficiency of massive stars within these clusters, which provides evidence for the **delayed formation of massive stars** in the clusters. 
+	- Such clues give **support** to the hypothesis that the **Stellar Snake constitutes as a hierarchically primordial structure.**
+
+## Thu, 8 Feb
+
+
 # Week 7
 
 # Week 8
 
 # Week 9
+## Mon, 26 Feb
+- [Binary origin of blue straggler stars in Galactic star clusters](https://arxiv.org/abs/2402.14990) [M. J. Rain](https://arxiv.org/search/astro-ph?searchtype=author&query=Rain%2C+M+J) (ESO Chile), [M. S. Pera](https://arxiv.org/search/astro-ph?searchtype=author&query=Pera%2C+M+S) (La Plata), [G. Perren](https://arxiv.org/search/astro-ph?searchtype=author&query=Perren%2C+G) (Rosario)
+	- 银河系星团中蓝离散星的双星起源，根据基于 Gaia 的河内星团蓝离散星星表，发现蓝离散星的数目和星团双星比有关，支持了蓝离散星起源于双星演化的假说，
+	- Building on the recent release of a new **Gaia-based blue straggler star catalog** in Galactic open star clusters (OCs), we **explored the properties of these stars** in a cluster sample spanning a wide range in fundamental parameters.
+	- use **ASteCA** to estimate the fundamental parameters of the selected clusters, in particular, the binary fraction
+	- **results**:
+		- For the first time, found a **correlation between the number of blue stragglers and the host cluster binary fraction and binaries**, supports the hypothesis that **binary evolution** is the most viable scenario of **straggler formation** in Galactic star clusters
+		- The excellent comparison between the bulk **distribution of blue stragglers** and the **composite evolutionary sequences loci** further supports the binary origin of most stragglers in OCs
 
+- [Is the universe older than commonly accepted?](https://arxiv.org/abs/2401.11549) Félix Llorente de Andrés
+	- 受限于公认的宇宙年龄模型，球状星团的年龄不会超过 13.8 Gyr。但是近期根据蓝离散星的数量和弛豫时间之间的关系，得出 NGC104 的年龄介于19.04 Gyr 和 20.30 Gyr 之间。本研究对 NGC 5634 和 NGC 5024 这两个 GC 进行了研究，发现它们的年龄在 15.8 和 21.6 Gyr 之间，超过了公认的宇宙年龄。
+	- 根据 Gupta 模型，以及JWST早起宇宙观测的结果，认为宇宙年龄约为 267 亿年。（支持证据：NGC104, NGC5634, NGC5024, IC 4499, NGC 6273, NGC 5824, NGC 4833）
+	- A plausible explanation aligns with Gupta's model (Gupta 2023), suggesting a Universe age of around 26.7 billion years, consistent with early universe observations from the James Webb Space Telescope (JWST). Additionally, **four other GCs (IC 4499, NGC 6273, NGC 5824 and NGC 4833)** support Gupta's model.
+
+## Tue, 27 Feb
