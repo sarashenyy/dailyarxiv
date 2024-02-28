@@ -72,3 +72,13 @@
 	- A plausible explanation aligns with Gupta's model (Gupta 2023), suggesting a Universe age of around 26.7 billion years, consistent with early universe observations from the James Webb Space Telescope (JWST). Additionally, **four other GCs (IC 4499, NGC 6273, NGC 5824 and NGC 4833)** support Gupta's model.
 
 ## Tue, 27 Feb
+- [Galaxy stellar and total mass estimation using machine learning](https://arxiv.org/abs/2311.10351) Jiani Chu, Hongming Tang, Dandan Xu (清华)
+	- 传统星系质量测量方法会受到模型假设和简并的影响，机器学习方法可以减小这些影响。使用TNG100的星系样本探究CNN对中央恒星质量，总质量和质光关系的测量能力，将星系图像，空间分辨的平均速度和速度弥散作为输入
+	- Conventional galaxy mass estimation methods suffer from model assumptions and degeneracies. Machine learning can reduce the reliance on such assumptions.
+	- use sample of galaxies from the TNG100 simulation to investigate the ability of **multi-branch convolutional neural network (CNN)** to predict the **central (i.e., within $1-2$ effective radii) stellar and total masses**, and the **stellar mass-to-light ratio $M_*/L$**
+	- Such CNN-based models can in general **break the degeneracy between baryonic and dark matter** in the sense that the model can make reliable predictions on the individual contributions of each component 打破重子和暗物质之间的简并性，因为它可以单独预测那个成分的贡献
+	- **results**:
+		- with $r$-band images and two galaxy kinematic maps as inputs, our model predicting $M_*/L$ has a prediction uncertainty of **0.04 dex**
+		- use a **gradient boosting machine** to investigate which (global) features significantly contribute to the correct predictions of the properties
+		- find that **galaxy luminosity dominates** the prediction of all masses in the central regions, with stellar velocity dispersion coming next
+		- also investigate the **main contributing features** when predicting stellar and dark matter mass fractions ($f_*$, $f_{\rm DM}$) and the dark matter mass $M_{DM}$
