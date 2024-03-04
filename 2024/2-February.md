@@ -82,3 +82,18 @@
 		- use a **gradient boosting machine** to investigate which (global) features significantly contribute to the correct predictions of the properties
 		- find that **galaxy luminosity dominates** the prediction of all masses in the central regions, with stellar velocity dispersion coming next
 		- also investigate the **main contributing features** when predicting stellar and dark matter mass fractions ($f_*$, $f_{\rm DM}$) and the dark matter mass $M_{DM}$
+
+## Wed, 28 Feb
+- [Discovery of Globular Cluster Candidates in the Dwarf Irregular Galaxy IC 2574 Using HST/ACS Imaging](https://arxiv.org/abs/2402.16955)Noushin Karim, Michelle L. M. Collins, Duncan A. Forbes
+	- 发现在距离 3.86 Mpc 处的矮星系 IC 2574（M81星系群） 附近有 23个GC候选体，
+	- report the discovery of **23 globular cluster (GC) candidates** around the relatively isolated **dwarf galaxy IC 2574** within the Messier 81 (M81) group, at a distance of **3.86 Mpc**
+	- **data**: HST Advanced Camera for Surveys (ACS)
+
+## Thu, 29 Feb
+
+
+## Fri, 1 Mar
+- [[Ne v] emission from a faint epoch of reionization-era galaxy: evidence for a narrow-line intermediate mass black hole](https://arxiv.org/abs/2402.18643)J. Chisholm, D. A. Berg, R. Endsley
+	- high spectral resolution JWST NIRSpec observations of **GN42437**, a low-mass (log(M∗/M⊙)=7.9), compact (re<500pc), extreme starburst galaxy at z=5.59 with 13 emission line detections
+	- GN42437 has an extraordinary 7σ significant [Ne V] 3427 A˚ detection. The [Ne V] line has a rest-frame equivalent width of 11±2A˚, [Ne V]/Hα=0.04±0.007, [Ne V]/[Ne III] 3870A˚=0.26±0.04, and [Ne V]/He II 4687 A˚=1.2±0.5. Ionization from massive stars, shocks, or high-mass X-ray binaries **cannot simultaneously produce** these [Ne V] and low-ionization line ratios. Reproducing the complete nebular structure **requires both massive stars and accretion onto a black hole**.
+	- Thus, the very-high-ionization emission lines powerfully diagnose faint **narrow-line black holes** at high-redshift. We approximate the black hole mass in a variety of ways as **log(MBH/M⊙)∼5−7**.
