@@ -109,3 +109,7 @@
 		- trace the spatial distribution of the globular clusters (GCs) as well as their colour distribution
 		- finding a potential bridge of red GCs that connects NGC 3640 to its less massive companion
 		- signs that the blue GCs were spatially disturbed by the event that created the shells.
+
+## Tue, 5 Mar
+- [Bayesian characterization of the young open cluster NGC 6383 using HDBSCAN and Gaia DR3](https://arxiv.org/abs/2403.01030)
+	- 用 HDBSCAN 算法基于自行和Gaia视差测定了年轻星团 NGC 6383 的成员星，评估了 NGC 6383 的潮汐半径、核心半径、通过视差和等时线拟合得出的距离、适当运动、年龄、金属丰度，使用Hamiltonian Monte Carlo (HMC) 和 No-U-Turn Sampler的技术得到最佳拟合。发现 NGC 6383 非常年轻（～1-4 Myr），距离～1.1kpc。
