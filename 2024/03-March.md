@@ -43,6 +43,15 @@
 		- for the **globular clusters**, we find intrinsic scatters ranging from 0.018 − 0.21 dex, with particularly high scatter for Al and O
 
 - [PHANGS-HST catalogs for ~100,000 star clusters and compact associations in 38 galaxies: I. Observed properties](https://arxiv.org/abs/2403.04901) Daniel Maschmann, Janice C. Lee, David A. Thilker
+	- 提供了目前最大的近邻星系星团和紧密星协目录，对PHANGS-HST计划的38个旋涡星系中的星团进行了V波段普查，测量了NUV-U-B-V测光。目录中包含 ～20,000 个经过人工检验的星团和星协以及 ～100,000 个由神经网络模型分类的更大样本。
+	- **results**:
+		- present the largest catalog to-date of star clusters and compact associations in nearby galaxies
+		- resulted in uniform catalogs that contain **∼20,000 clusters** and compact associations which have passed human inspection and morphological classification, and a larger sample of **∼100,000** classified by neural network models
+		- show the utility of UBVI **color-color diagram** and revealed three principal features: the young cluster locus, the middle-age plume, and the old globular cluster clump
+		- present an atlas of maps of the **2D spatial distribution of clusters and compact associations** in the context of the **molecular clouds** from PHANGS-ALMA
+	- **highlights**: explore new ways of understanding this large dataset in a multi-scale context by bringing together once-separate techniques for the characterization of clusters (color-color diagrams and spatial distributions) and their parent galaxies (galaxy morphology and location relative to the galaxy main sequence)
+
+- [Improving the open cluster census. III. Using cluster masses, radii, and dynamics to create a cleaned open cluster catalogue](https://arxiv.org/abs/2403.05143) Emily L. Hunt, Sabine Reffert
 	- 
 
 ## Tue, 12 Mar
