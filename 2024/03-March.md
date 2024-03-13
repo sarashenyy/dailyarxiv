@@ -59,3 +59,12 @@
 	- [VLT](https://zh.wikipedia.org/wiki/%E7%94%9A%E5%A4%A7%E6%9C%9B%E8%BF%9C%E9%95%9C) ：**甚大望远镜**（Very Large Telescope，缩写为VLT，或译超大型望远镜、特大望远镜）为[欧洲南方天文台](https://zh.wikipedia.org/wiki/%E6%AC%A7%E6%B4%B2%E5%8D%97%E6%96%B9%E5%A4%A9%E6%96%87%E5%8F%B0 "欧洲南方天文台")在[智利](https://zh.wikipedia.org/wiki/%E6%99%BA%E5%88%A9 "智利")建造的大型光学望远镜，由4台相同的8.2米口径望远镜组成，组合的等效口径可达130米。4台望远镜既可以单独使用，也可以组成[光学干涉仪](https://zh.wikipedia.org/w/index.php?title=%E5%85%89%E5%AD%A6%E5%B9%B2%E6%B6%89%E4%BB%AA&action=edit&redlink=1 "光学干涉仪（页面不存在）")进行高分辨率观测。甚大望远镜位于智利[安托法加斯塔](https://zh.wikipedia.org/wiki/%E5%AE%89%E6%89%98%E6%B3%95%E5%8A%A0%E6%96%AF%E5%A1%94)以南130千米的[帕瑞纳天文台](https://zh.wikipedia.org/wiki/%E5%B8%95%E7%91%9E%E7%BA%B3%E5%A4%A9%E6%96%87%E5%8F%B0 "帕瑞纳天文台")，海拔高度为2,632米，这里气候干燥，一年当中晴夜数量多于340个。
 
 ## Wed, 13 Mar
+- [HST Survey of the Orion Nebula Cluster in ACS/Visible and WFC3/IR Bands. IV. A Bayesian multicolor study of stellar parameters in the ONC](https://arxiv.org/abs/2403.07083) Giovanni M. Strampelli (加州大学圣塔芭芭拉), Massimo Robberto (约翰霍普金斯大学), Laurent Pueyo 
+	- 基于HST的测光做了SED拟合，调查了猎户座大星云Orion Nebula Cluster (ONC)中一些成分的质量，年龄，消光，距离；通过质量分布发现了质量分层达到了sub-solar mass；通过年龄分布发现在约 1Myr 前有一次主要的恒星形成；对质量大于0.1太阳质量，IMF和Chabrier IMF类似。
+	- **data** : obtained by the two **HST** Treasury programs(GO-10246, GO-13826)
+	- **results** : 
+		- adopted a **Bayesian** approach to fit the **Spectral Energy Distribution** of the sources, deriving **mass**, **age**, **extinction**, **distance**, and **accretion** for each source in the region
+		- **mass segregation** in the ONC extends to sub-solar masses through the three dimensional study of **mass distribution** for bona-fide cluster members
+		- the **age distribution** strongly supports the idea that star formation in the ONC is best described by a **major episode** of star formation that happened ∼1 Myr ago
+		- For masses $≳ 0.1 M_\odot$, our derived empirical **initial mass function (IMF)** is in good agreement with a **Chabrier** system IMF
+		- Both the accretion luminosity ($L_{acc}$) and mass accretion rates ($\dot{M}_{acc}$) are best described by broken power-law relations, suggests that for the majority of young circumstellar disks in this cluster the excess emission may be dominated by X-ray-driven photoevaporation by the central star rather than external photoevaporation. If this is the case, the slopes of the power-law relations may be largely determined by the initial conditions set at the onset of the star formation process, which may be quite similar between regions that eventually form clusters of different sizes.
