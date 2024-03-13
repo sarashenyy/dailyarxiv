@@ -31,6 +31,18 @@
 	- [Subaru telescope](https://en.wikipedia.org/wiki/Subaru_Telescope) ：**昴星团望远镜**（すばる望远镜，_Subaru Bōenkyō_）是[日本国家天文台](https://en.wikipedia.org/wiki/National_Astronomical_Observatory_of_Japan "日本国家天文台")的 8.2 米（320 英寸）望远镜，位于[夏威夷莫纳](https://en.wikipedia.org/wiki/Mauna_Kea_Observatory "莫纳克亚天文台")[克亚](https://en.wikipedia.org/wiki/Hawaii_(island) "夏威夷（岛屿）")天文台。[它以疏散星团](https://en.wikipedia.org/wiki/Open_star_cluster "疏散星团")（英文称为[Pleiades）](https://en.wikipedia.org/wiki/Pleiades "昴")命名。从投入使用到2005 年[大型双目望远镜](https://en.wikipedia.org/wiki/Large_Binocular_Telescope "大型双筒望远镜")开放，它拥有世界上最大的整体[主镜](https://en.wikipedia.org/wiki/Primary_mirror "主镜")。
 
 - [Measuring Dwarf Galaxy Intrinsic Abundance Scatter with Mid-resolution Spectroscopic Surveys: Calibrating APOGEE Abundance Errors](https://arxiv.org/abs/2403.04833) Jennifer Mead, Melissa Ness, Eric Andersson
+	- 校准 APOGEE 中分辨丰度误差，测量了矮星系和球状星团中的内禀丰度弥散，这些内禀丰度弥散显示了其多星族的特性
+	- **background** : 
+		- The first generations of stars left their chemical fingerprints on **metal-poor** stars in the Milky Way and its surrounding **dwarf galaxies**. 
+		- While instantaneous and homogeneous enrichment implies that groups of co-natal stars should have the same element abundances, **small amplitudes of abundance scatter** are seen at fixed [Fe/H].
+		- **high-resolution** spectroscopic measurement **uncertainty is small** compared to this scatter. 高分辨的测量误差远小于丰度弥散
+	- Results:
+		- present a method to use **mid-resolution** survey data, which has larger errors, to make this measurement
+		- calculate the **intrinsic scatter** of Al, O, Mg, Si, Ti, Ni, and Mn relative to Fe for **333** metal-poor stars across **6** classical **dwarf galaxies** around the Milky Way, and **1604** stars across **19 globular clusters**
+		- find small amplitudes of average intrinsic abundance scatter in **dwarf galaxies** ranging from 0.032 − 0.14 dex with a median value of 0.043 dex
+		- for the **globular clusters**, we find intrinsic scatters ranging from 0.018 − 0.21 dex, with particularly high scatter for Al and O
+
+- [PHANGS-HST catalogs for ~100,000 star clusters and compact associations in 38 galaxies: I. Observed properties](https://arxiv.org/abs/2403.04901) Daniel Maschmann, Janice C. Lee, David A. Thilker
 	- 
 
 ## Tue, 12 Mar
@@ -45,3 +57,5 @@
 		- used the 3-D velocity dispersion obtained by the dispersions in the tangential directions and the assumption that the radial velocity dispersion is the same as a tangential one to estimate the virial cluster mass and the cluster mass taking into account the gravitational field of the Galaxy and the non-stationarity of the cluster.
 		- 650±30M⊙ and 310±80M⊙, respectively, and they are in substantial agreement with the photometric cluster mass.
 	- [VLT](https://zh.wikipedia.org/wiki/%E7%94%9A%E5%A4%A7%E6%9C%9B%E8%BF%9C%E9%95%9C) ：**甚大望远镜**（Very Large Telescope，缩写为VLT，或译超大型望远镜、特大望远镜）为[欧洲南方天文台](https://zh.wikipedia.org/wiki/%E6%AC%A7%E6%B4%B2%E5%8D%97%E6%96%B9%E5%A4%A9%E6%96%87%E5%8F%B0 "欧洲南方天文台")在[智利](https://zh.wikipedia.org/wiki/%E6%99%BA%E5%88%A9 "智利")建造的大型光学望远镜，由4台相同的8.2米口径望远镜组成，组合的等效口径可达130米。4台望远镜既可以单独使用，也可以组成[光学干涉仪](https://zh.wikipedia.org/w/index.php?title=%E5%85%89%E5%AD%A6%E5%B9%B2%E6%B6%89%E4%BB%AA&action=edit&redlink=1 "光学干涉仪（页面不存在）")进行高分辨率观测。甚大望远镜位于智利[安托法加斯塔](https://zh.wikipedia.org/wiki/%E5%AE%89%E6%89%98%E6%B3%95%E5%8A%A0%E6%96%AF%E5%A1%94)以南130千米的[帕瑞纳天文台](https://zh.wikipedia.org/wiki/%E5%B8%95%E7%91%9E%E7%BA%B3%E5%A4%A9%E6%96%87%E5%8F%B0 "帕瑞纳天文台")，海拔高度为2,632米，这里气候干燥，一年当中晴夜数量多于340个。
+
+## Wed, 13 Mar
