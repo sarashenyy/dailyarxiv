@@ -51,8 +51,16 @@
 		- present an atlas of maps of the **2D spatial distribution of clusters and compact associations** in the context of the **molecular clouds** from PHANGS-ALMA
 	- **highlights**: explore new ways of understanding this large dataset in a multi-scale context by bringing together once-separate techniques for the characterization of clusters (color-color diagrams and spatial distributions) and their parent galaxies (galaxy morphology and location relative to the galaxy main sequence)
 
-- [Improving the open cluster census. III. Using cluster masses, radii, and dynamics to create a cleaned open cluster catalogue](https://arxiv.org/abs/2403.05143) Emily L. Hunt, Sabine Reffert
-	- 
+- [Improving the open cluster census. III. Using cluster masses, radii, and dynamics to create a cleaned open cluster catalogue](https://arxiv.org/abs/2403.05143) Emily L. Hunt, Sabine Reffert (海德堡大学天文中心 ZAH)
+	- 测试了不同的物理方法来区分束缚和非束缚的星团，并提供了一个纯净的星团目录。基于之前的工作，得到了6956个星团经过完整性矫正后的测光质量，使用这些质量计算了洛西面&雅可比半径来区分束缚/非束缚。发现在之前的星表中，只有5647个（79%）星团是束缚的，250pc范围内的星团只占11%。移动星群在大小与年龄和质量的关系上呈现的趋势不同，表明它们是非束缚的。
+	- **method**:
+		- derived completeness-corrected photometric masses for 6956 clusters from our earlier work
+		- used these masses to compute the size of the Roche surface of these clusters (their Jacobi radius) and distinguish between bound and unbound clusters
+	- **results**:
+		- find that only **5647** (79%) of the clusters from our previous catalogue are compatible with bound open clusters, dropping to just **11%** of clusters within 250 pc. **3530** open clusters are in a strongly cut high quality sample
+		- inferred the **mass-dependent completeness** limit of the open cluster census, showing that the census is complete **within 1.8 kpc** **only** for objects heavier than **230 M⊙**
+		- derived a **completeness-corrected age and mass function** for our open cluster catalogue, including estimating that the Milky Way contains a total of 1.3×105 open clusters, only **~4%** of which are currently known
+		- show that most open clusters have mass functions **compatible** with the **Kroupa initial mass function**. We demonstrate **Jacobi radii** for distinguishing between bound and unbound star clusters, and publish an updated star cluster catalogue with masses and improved cluster classifications.
 
 ## Tue, 12 Mar
 - [Velocity Dispersion of the open cluster NGC 2571 by Radial Velocities and Proper Motions](https://arxiv.org/abs/2403.06137) Maxim V. Kulesh, Aleksandra E. Samirkhanova, Giovanni Carraro (Padova University)
@@ -77,3 +85,14 @@
 		- the **age distribution** strongly supports the idea that star formation in the ONC is best described by a **major episode** of star formation that happened ∼1 Myr ago
 		- For masses $≳ 0.1 M_\odot$, our derived empirical **initial mass function (IMF)** is in good agreement with a **Chabrier** system IMF
 		- Both the accretion luminosity ($L_{acc}$) and mass accretion rates ($\dot{M}_{acc}$) are best described by broken power-law relations, suggests that for the majority of young circumstellar disks in this cluster the excess emission may be dominated by X-ray-driven photoevaporation by the central star rather than external photoevaporation. If this is the case, the slopes of the power-law relations may be largely determined by the initial conditions set at the onset of the star formation process, which may be quite similar between regions that eventually form clusters of different sizes.
+
+## Thu, 14 Mar
+- [Chemical Cartography with APOGEE: Two-process Parameters and Residual Abundances for 288,789 Stars from Data Release 17](https://arxiv.org/abs/2403.08067) Tawny Sit, David H. Weinberg, Adam Wheeler
+	- 利用APOGEE绘制化学地图，DR17中的288,789颗星的双过程参数和残余丰度。从17种元素丰度中得出了经验的校准偏移，以消除log(g)的系统性趋势。
+	- **background** : Stellar abundance measurements are subject to systematic errors that induce extra scatter and artificial correlations in elemental abundance patterns
+	- **results**：
+		- As a first application of this catalog, which is 8× larger than that of previous analyses that used a restricted log(g) range, we examine the **median residual abundances** of 14 open clusters, nine globular clusters, and four dwarf satellite galaxies
+		- Relative to field Milky Way disk stars, the **open clusters** younger than 2 Gyr show ≈0.1−0.2 dex enhancements of the neutron-capture element Ce, and the two clusters younger than 0.5 Gyr also show elevated levels of C+N, Na, S, and Cu.
+		- **Globular clusters** show elevated median abundances of C+N, Na, Al, and Ce, and correlated abundance residuals that follow previously known trends. 
+		- The four **dwarf satellites** show similar residual abundance patterns despite their different star formation histories, with ≈0.2−0.3 dex depletions in C+N, Na, and Al and ≈0.1 dex depletions in Ni, V, Mn, and Co
+	- **importances** : provide our catalog of corrected APOGEE abundances, two-process amplitudes, and residual abundances, which will be valuable for future studies of **abundance patterns** in different stellar populations and of additional enrichment processes that affect galactic chemical evolution.
