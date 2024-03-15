@@ -96,3 +96,22 @@
 		- **Globular clusters** show elevated median abundances of C+N, Na, Al, and Ce, and correlated abundance residuals that follow previously known trends. 
 		- The four **dwarf satellites** show similar residual abundance patterns despite their different star formation histories, with ≈0.2−0.3 dex depletions in C+N, Na, and Al and ≈0.1 dex depletions in Ni, V, Mn, and Co
 	- **importances** : provide our catalog of corrected APOGEE abundances, two-process amplitudes, and residual abundances, which will be valuable for future studies of **abundance patterns** in different stellar populations and of additional enrichment processes that affect galactic chemical evolution.
+
+## Fri, 15 Mar
+- [The Present-Day Mass Function of Star Clusters in the Solar Neighborhood](https://arxiv.org/abs/2403.08850) Xiaoying Pang, Siqi Liao, Jiadong Li
+	- 利用GaiaDR3的数据分析了93个星团的present-day mass function(PDMF)，采用了三种质量比例剖面进行矫正，PDMF通过最大似然方法给出，这种方法同时避免了数据分bin带来的误差。 PDMF的值在Gaia数据完整性限制的平均 $0.3 M_{\odot} - 2 M_{\odot}$ 之间，对于年龄小于 200 Myr 的星团， $\alpha$ 值比较稳定，而对于年龄较大的星团， $\alpha$ 值有所下降，特别是当考虑到半质量半径范围内的恒星时。α对星团总质量的依赖性很弱，没有观察到α与星团平均金属度之间的相关性，较年轻的星团与较年长的星团相比，金属度较低，这表明较年长的星团可能是从内盘迁移到太阳邻近地区的
+	- **results**：
+		- analyses the present-day mass function (PDMF) of **93** star clusters utilizing Gaia DR3 data
+		- The PDMF of these star clusters is consistent with a dynamically evolved **Kroupa IMF** via the loss of low-mass stars
+		-  Cluster **morphology** shows a correlation with α, as α values exhibit a decreasing trend from filamentary to tidal-tail clusters, mirroring the sequence of increasing cluster age. 
+		- The **dependence of $\alpha$ on total cluster mass is weak**, with a subtle increase for higher-mass clusters, especially outside the half-mass radius. 
+		- We do **not observe a correlation between $\alpha$ and the mean metallicity** of the clusters. Younger clusters have lower metallicity compared to their older counterparts, which indicates that the older clusters might have migrated to the solar neighbourhood from the inner disk.
+
+- [On the Metallicity Gradients in the Galactic Disk using Open Clusters](https://arxiv.org/abs/2403.09237) Yogesh C. Joshi (ARIES), Deepak (ARIES), Sagar Malhotra (IISER, Mohali) (印度)
+	- 用银心距离在4-20kpc1879个星团，研究了银盘上的金属丰度分布和演化
+	- **Data** : **1879** open clusters in the range of Galactocentric distance (R_GC) from 4 to 20 kpc
+	- **results** :
+		- investigate the variation of metallicity in the Galactic disk as functions of R_GC, vertical distance (Z), and ages of the clusters
+		- estimate a **vertical metallicity gradient** d[Fe/H]/dZ of -0.545+/-0.046 dex/kpc for |Z| < 0.487 kpc, and -0.075+/-0.093 dex/kpc for 0.487 < |Z| < 1.8 kpc
+		- obtain a **radial metallicity gradient** d[Fe/H]/d[R_GC] of -0.070+/-0.002 dex/kpc for 4.0<R_GC<12.8 kpc, and -0.005+/-0.018 dex/kpc for 12.8< R_GC < 20.5 kpc which clearly shows a strong variation in the metallicity gradient when moving from the inner to the outer Galactic disk
+		- **Age-metallicity relation (AMR)** is found to follow a steeper negative slope of -0.031+/-0.006 dex/Gyr for clusters older than 240 Myr, however, there is some hint of positive metallicity age gradient for younger clusters.
