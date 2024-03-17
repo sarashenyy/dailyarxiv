@@ -18,6 +18,24 @@
 - [Ne22 distillation and the cooling sequence of the old metal-rich open cluster NGC 6791](https://arxiv.org/abs/2403.02790) Maurizio Salaris, Simon Blouin, Santi Cassisi
 	- 年老的富金属疏散星团 NGC 6791 的 Ne22 蒸馏和冷却序列
 
+## Thu, 7 Mar
+- [The HST Large Programme on NGC 6752 -- V. Differences in Luminosity and Mass Functions among Multiple Stellar Populations](https://arxiv.org/abs/2403.03262) M. Scalco, R. Gerasimov, L. R. Bedin
+	- 确定了球状星团 NGC 6752 中最暗弱的多星族的光度和质量函数，对 $m_{\rm F160W} \sim 25$ 等的星也成功得到了成员星概率，从而能可靠地区分在这个星团中观测到的三个主要恒星群；发现了第一代恒星和第二代恒星在如今的光度和质量函数上的差异，这些差异与作用于具有不同初始空间分布的恒星群的动力学过程所产生的影响一致
+	- **results**：
+		- successfully derived membership probabilities reaching stars as faint as $m_{\rm F160W} \sim 25$, allowing us to reliably distinguish the **three main stellar populations** detected within this cluster
+		- present a comprehensive analysis of the luminosity and mass functions for three stellar populations within NGC 6752
+		- our findings reveal **differences** in the present-day luminosity and mass functions of first-generation and second-generation stars; these differences are **consistent** with the manifestation of the effects of dynamical processes acting on populations with different initial spatial distributions
+
+## Fri, 8 Mar
+- [Exploring NGC 2345: A Comprehensive Study of a Young Open Cluster through Photometric and Kinematic Analysis](https://arxiv.org/abs/2403.04532) Kuldeep Belwal, D. Bisht, Mohit Singh Bisht (印度)
+	- **Data** : CCD/UBV data from 2-m Himalayan Chandra Telescope (HCT), Gaia Data Release 3 (DR3), 2MASS, and the APASS datasets
+	- **results**:
+		- found 1732 most probable cluster members with membership probability higher than 70$\%$
+		- mean proper motion of the cluster is estimated to be $\mu_{\alpha}cos\delta$ = ${-1.34}\pm0.20$ and $\mu_{\delta}$= $1.35\pm 0.21$ mas $yr^{-1}$
+		- the estimated radius is $\sim$ 12.8 arcmin (10.37 pc)
+		- using color-color and color-magnitude diagrams, we estimate the reddening, age, and distance to be $0.63\pm0.04$ mag, 63 $\pm$ 8 Myr, and 2.78 $\pm$ 0.78 kpc
+		- mass function slope for main-sequence stars is determined as $1.2\pm 0.1$, mass function slope in the core, halo, and overall region indicates a possible hint of mass segregation
+		- apex coordinates are determined as $-40^{\circ}.89 \pm 0.12, -44^{\circ}.99 \pm 0.15$. The cluster's orbit in the Galaxy suggests early dissociation in field stars due to its close proximity to the Galactic disk
 
 # Week 11
 ## Mon, 11 Mar
@@ -115,3 +133,5 @@
 		- estimate a **vertical metallicity gradient** d[Fe/H]/dZ of -0.545+/-0.046 dex/kpc for |Z| < 0.487 kpc, and -0.075+/-0.093 dex/kpc for 0.487 < |Z| < 1.8 kpc
 		- obtain a **radial metallicity gradient** d[Fe/H]/d[R_GC] of -0.070+/-0.002 dex/kpc for 4.0<R_GC<12.8 kpc, and -0.005+/-0.018 dex/kpc for 12.8< R_GC < 20.5 kpc which clearly shows a strong variation in the metallicity gradient when moving from the inner to the outer Galactic disk
 		- **Age-metallicity relation (AMR)** is found to follow a steeper negative slope of -0.031+/-0.006 dex/Gyr for clusters older than 240 Myr, however, there is some hint of positive metallicity age gradient for younger clusters.
+
+# Week 12
