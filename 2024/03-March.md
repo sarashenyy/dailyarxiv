@@ -135,3 +135,20 @@
 		- **Age-metallicity relation (AMR)** is found to follow a steeper negative slope of -0.031+/-0.006 dex/Gyr for clusters older than 240 Myr, however, there is some hint of positive metallicity age gradient for younger clusters.
 
 # Week 12
+## Mon, 18 Mar
+- [zoomies: A tool to infer stellar age from vertical action in Gaia data](https://arxiv.org/abs/2403.09878) Sheila Sagear, Adrian M. Price-Whelan, Sarah Ballard
+	- 
+
+- [The Next Generation Virgo Cluster Survey (NGVS). XXVII.The Size and Structure of Globular Cluster Systems and their Connection to Dark Matter Halos](https://arxiv.org/abs/2403.09926) 
+
+
+## Tue, 19 Mar
+- [FROST-CLUSTERS -- I. Hierarchical star cluster assembly boosts intermediate-mass black hole formation](https://arxiv.org/abs/2403.10602) Antti Rantala, Thorsten Naab, Natalia Lahén (MPIA)
+	- 用更新的 BIFROST 代码研究了大质量星团组装对中等质量黑洞 (IMBH) 形成的影响，单星族生成基于代码 SEVN， 演化出了三个星团 $N_\rm{tot}=1.70-2.35\times10^6$ 颗星，并遵循～1000个子星团中的实际IMF，年龄在 $t=50 \rm{Myr}$。质量高达 $2200 M_{\odot}$ 的IMBH主要通过大质量恒星(Very Massive Stars, VMS) 坍缩迅速形成，然后通过潮汐破坏事件和BH合并而增长。我们的模拟表明，在金属贫乏的环境中，大质量星团的分层形成自然导致了超大质量黑洞潜在种子的形成。
+	- **background** : 观测和高分辨率流体动力学模拟表明，大质量星团由具有普遍幂律星团质量函数的子星团分层组装而成。
+		- Observations and high-resolution hydrodynamical simulations indicate that massive star clusters assemble hierarchically from sub-clusters with a universal power-law cluster mass function.
+	- **results** : 
+		- evolve three cluster assembly re- gions with $N_\rm{tot}=1.70-2.35\times10^6$ stars following a realistic IMF in ∼1000 sub-clusters for 𝑡 = 50 Myr.
+		- IMBHs with masses up to 𝑚• ∼ 2200 M⊙ form rapidly mainly via the collapse of very massive stars (VMSs) assembled through repeated collisions of massive stars followed by growth through tidal disruption events and BH mergers.
+		- No IMBHs originate from the stars in the initially most massive clusters.
+		- Our simulations indicate that the hierarchical formation of massive star clusters in metal poor environments naturally results in formation of potential seeds for supermassive black holes.
