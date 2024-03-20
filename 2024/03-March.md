@@ -152,3 +152,13 @@
 		- IMBHs with masses up to 𝑚• ∼ 2200 M⊙ form rapidly mainly via the collapse of very massive stars (VMSs) assembled through repeated collisions of massive stars followed by growth through tidal disruption events and BH mergers.
 		- No IMBHs originate from the stars in the initially most massive clusters.
 		- Our simulations indicate that the hierarchical formation of massive star clusters in metal poor environments naturally results in formation of potential seeds for supermassive black holes.
+
+## Wed, 20 Mar
+- [Discoveries and Timing of Pulsars in M62](https://arxiv.org/abs/2403.12137) L. Vleeschower, A. Corongiu, B. W. Stappers
+	- 利用 MeerKAT，在球状星团 M62 中发现了三颗新的毫秒脉冲星 （MSPs: M62H, M62I, M62J）
+	- **results** :
+		- discovered three new millisecond pulsars (MSPs) in the bulge globular cluster M62: M62H, M62I, and M62J
+		- present 23-yr-long timing solutions obtained using data from the Parkes "Murriyang", Effelsberg and MeerKAT telescopes for the six previously known pulsars
+		- measured the second spin-period derivatives and the rate of change of orbital period caused by the gravitational field of the cluster, and their proper motions
+		- conclude that the pulsars' maximum accelerations are consistent with the maximum cluster acceleration assuming a core-collapsed mass distribution
+	- **challenges** : The presence of **only binary MSPs** in this cluster challenges models which suggest that the MSP population of core-collapsed clusters should be dominated by **isolated MSPs**.
