@@ -137,10 +137,27 @@
 # Week 12
 ## Mon, 18 Mar
 - [zoomies: A tool to infer stellar age from vertical action in Gaia data](https://arxiv.org/abs/2403.09878) Sheila Sagear, Adrian M. Price-Whelan, Sarah Ballard
-	- 
+	- 利用Gaia高精度天测数据，构建了一个仅基于恒星动力学（垂直作用）的恒星年龄预测模型，使用红巨星分支的星震学年龄和采用主序拐点的等龄线年龄进行了校准；虽然动力学年龄关系具有很大的不确定性，但它们通常与质量无关
+	- **opensource** : https://github.com/ssagear/zoomies/tree/main
+	- **background** : 
+		- extracting age information from Main Sequence stars is complicated, with techniques often relying on **age proxies** in the absence of direct measurements.
+		- The Gaia data releases have enabled detailed studies of the dynamical properties of stars within the Milky Way, offering new opportunities to understand the relationship between **stellar age and dynamics**
+	- **results** : 
+		- construct a stellar **age prediction model based only on stellar dynamical** properties; namely, the vertical action
+		- calibrate two distinct, hierarchical stellar age--vertical action relations, first employing **asteroseismic ages** for red giant branch stars, then **isochrone ages** for main-sequence turn-off stars
+		- compare dynamical age estimates from "zoomies" with ages derived from other techniques for a sample of open clusters and main-sequence stars with **asteroseismic** age measurements
+		- compare dynamical age estimates for stellar samples from the **Kepler, K2, and TESS exoplanet transit surveys**
+	- **advantages** : These age predictions are **uniquely useful for large-scale demographic investigations**, especially in disentangling the relationship between planet occurrence, metallicity, and age for low-mass stars.
 
-- [The Next Generation Virgo Cluster Survey (NGVS). XXVII.The Size and Structure of Globular Cluster Systems and their Connection to Dark Matter Halos](https://arxiv.org/abs/2403.09926) 
-
+- [The Next Generation Virgo Cluster Survey (NGVS). XXVII.The Size and Structure of Globular Cluster Systems and their Connection to Dark Matter Halos](https://arxiv.org/abs/2403.09926) Sungsoon Lim, Eric W. Peng, Patrick Côté, Laura Ferrarese
+	- 研究了NGVS, MATLAS, ACSVCS中118个早期星系中的球状星团系统的大小和结构，通过拟合 Sersic 曲线，研究了球状星团系统的有效半径和星系性质之间的关系；发现在质量固定的情况下，密度较低的环境会表现出更延展的GC系统
+	- **data** : NGVS, MATLAS, ACSVCS; globular clusters (GC) systems of 118 early-type galaxies
+	- **results** : 
+		- investigate the relationship between effective radii of GC systems (Re,gc) and galaxy properties
+		- **GC systems are 2~4 times more extended** than host galaxies across the entire stellar mass range of our sample ($10^{8.3}<M_\star<10^{11.6} M_\odot$).
+		- the relationship between $R_{e,gc}$ and galaxy stellar mass exhibits a characteristic "knee" at a stellar mass of $M_p≃10^{10.8}$, similar to galaxy $R_e$ - stellar mass relationship
+		- find a tight correlation between $R_{e,gc}$ and the total number of GCs, with intrinsic scatter ≲0.1 dex spanning two and three orders of magnitude in size and number
+		- environmental dependence on  $R_{e,gc}$  is also found, with **lower density** environments exhibiting **more extended** GC systems at fixed mass
 
 ## Tue, 19 Mar
 - [FROST-CLUSTERS -- I. Hierarchical star cluster assembly boosts intermediate-mass black hole formation](https://arxiv.org/abs/2403.10602) Antti Rantala, Thorsten Naab, Natalia Lahén (MPIA)
@@ -162,3 +179,32 @@
 		- measured the second spin-period derivatives and the rate of change of orbital period caused by the gravitational field of the cluster, and their proper motions
 		- conclude that the pulsars' maximum accelerations are consistent with the maximum cluster acceleration assuming a core-collapsed mass distribution
 	- **challenges** : The presence of **only binary MSPs** in this cluster challenges models which suggest that the MSP population of core-collapsed clusters should be dominated by **isolated MSPs**.
+
+## Thu, 21 Mar
+- [Shapes of dark matter haloes with discrete globular cluster dynamics: The example of NGC 5128 (Centaurus A)](https://arxiv.org/abs/2403.13109) Tadeja Veršič, Marina Rejkuba, Magda Arnaboldi
+	- 利用NGC5128(Cen A)的球状星团作为运动学示踪剂，研究暗物质晕的球对称性偏差，根据建模发现Cen A的暗晕非常不可能是扁球形或球形的
+	- **background** : 
+		- Within the $\Lambda$CDM cosmology, dark matter haloes are expected to deviate from spherical symmetry. Constraining the **halo shapes** at large galactocentric distances is challenging due to the low density of luminous tracers.
+		- The well-studied early-type galaxy NGC 5128 (Centaurus A - CenA), has a large number of **radial velocities for globular clusters (GCs) and planetary nebulae (PNe)** of its extended stellar halo.
+	- **method** : 
+		- aim to determine the deviation from spherical symmetry of the dark matter halo of CenA at 5 $R_{\rm e}$ using its GCs as kinematic tracers
+		- used the GC candidates to accurately characterise the spatial distribution of the relaxed population
+		- investigated the presence of non-relaxed structures in the kinematic catalogue of GCs using the relaxed point-symmetric velocity field as determined by the host's PNe population
+	- **results** :
+		- An **oblate or a spherical** dark matter halo of CenA is strongly disfavoured by our modelling
+
+## Fri, 22 Mar
+- [PHANGS-HST: Globular Cluster Systems in 17 Nearby Spiral Galaxies](https://arxiv.org/abs/2403.13908) Matthew Floyd, Rupali Chandar, Bradley C. Whitmore
+	- 作为 PHANGS-HST 巡天的一部分，提供了17个近邻螺旋星系中可能存在的球状星团的新星表
+	- **PHANGS-HST** :  PHANGS-HST has produced catalogs of stellar clusters of all ages by selecting extended sources (from multiple concentration index measurements) followed by morphological classification (centrally concentrated and symmetric or asymmetric, multiple peaks, contaminant) by visually examining the V-band image and separately by a machine-learning algorithm which classified larger samples to reach fainter limits. 通过选择扩展源（从多个浓度指数测量结果中选择），然后通过目视检查 V 波段图像和机器学习算法分别进行形态分类（集中在中心、对称或不对称、多峰、污染物），从而制作了所有年龄段的星团星表
+	- **method** : select an initial list of candidate GCs to have $B-V \geq 0.5$ and $V-I \geq 0.73$ mag, then remove likely contaminants after visual inspection
+	- **results** : 
+		- find that $\approx86$ % of the color-selected candidates classified as spherically symmetric, and $\approx68$ of those classified as centrally concentrated but asymmetric are likely to be GCs
+		- luminosity functions of the GC candidates in 2 of our 17 galaxies, NGC 628 and NGC 3627, are atypical, and continue to rise at least 1~mag fainter than the expected turnover near $M_V \sim -7.4$
+
+- [Is the RSGC4 (Alicante 8) cluster a real star cluster?: Peculiar radial velocities of red supergiant stars](https://arxiv.org/abs/2403.13993) Sang-Hyun Chun, GyuChul Myeong, Jae-Joon Lee
+	- 研究了六个红超巨星团中的60颗红超巨星，认为RSGC4可能比不是一个真正的星团，而是视线方向有相似分布的RSG 和 AGB 的复合体（径向速度有明显的散射）
+	- **results** :
+		- investigated the high-resolution near-infrared spectra of 60 RSG(Red SuperGiant) candidates in the six red supergiant clusters in the Scutum complex using the Immersion Grating Infrared Spectrograph
+		- propose that **RSGC4 may not be a genuine star cluster** but rather a composite of RSGs and AGBs distributed along the line of sight at similar distances, possibly originating from various environments. 
+	- **importance** : Our results suggest a complex and hierarchical secular evolution of star clusters in the Scutum complex, emphasizing the importance of considering factors **beyond** density crowding when identifying star clusters in the bulge regions.
