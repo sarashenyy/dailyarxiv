@@ -208,3 +208,6 @@
 		- investigated the high-resolution near-infrared spectra of 60 RSG(Red SuperGiant) candidates in the six red supergiant clusters in the Scutum complex using the Immersion Grating Infrared Spectrograph
 		- propose that **RSGC4 may not be a genuine star cluster** but rather a composite of RSGs and AGBs distributed along the line of sight at similar distances, possibly originating from various environments. 
 	- **importance** : Our results suggest a complex and hierarchical secular evolution of star clusters in the Scutum complex, emphasizing the importance of considering factors **beyond** density crowding when identifying star clusters in the bulge regions.
+
+# Week 13
+## Mon, 25 Mar
