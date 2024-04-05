@@ -3,7 +3,7 @@
 
 >今日陆老师名言 ： 我不在乎这个工作能不能发nature，我做得开心就行 🐶 
 
-- [Filamentary structures as the origin of blazar jet radio variability](https://arxiv.org/abs/2311.01861) Antonio Fuentes, José L. Gómez, José M. Martí
+- 🍃 [Filamentary structures as the origin of blazar jet radio variability](https://arxiv.org/abs/2311.01861) Antonio Fuentes, José L. Gómez, José M. Martí
 	- **status** : Initial version of an article published in **Nature Astronomy**
 	- **summary** : 观测文章，用了更高精度的数据，推翻了标准的 shock-in-jet model 中多普勒因子为常数的假设，发现喷流中的发射特征可能是由变化的 Doppler-boosting 带来的。
 	- **key sentence** : high angular resolution and dynamic range image, suggests that **emission features traveling down the jet** may manifest as a result of **differential Doppler-boosting within the filaments**, **as opposed to the standard shock-in-jet model invoked to explain blazar jet radio variability**.
@@ -59,7 +59,7 @@
 - [Two Watts is All You Need: Enabling In-Detector Real-Time Machine Learning for Neutrino Telescopes Via Edge Computing](https://arxiv.org/abs/2311.04983) Miaochen Jin, Yushi Hu, Carlos A. Argüelles
 	- 首次尝试在Google Edge TPU (Tensor Processing Units)上将实时机器学习方法部署到 water/ice neutrino telscopes (中微子探测器)，设计了一种recursive neural network with a residual convolutional embedding。与传统基于GPU的方法有类似的精度，与基于CPU的方案有相同的功耗，实现了高精度低功耗。
 
-- [An evolutionary continuum from nucleated dwarf galaxies to star clusters](https://arxiv.org/abs/2311.05448) Kaixiang Wang(北大PhD), Eric W. Peng, Chengze Liu
+- 🍃 [An evolutionary continuum from nucleated dwarf galaxies to star clusters](https://arxiv.org/abs/2311.05448) Kaixiang Wang(北大PhD), Eric W. Peng, Chengze Liu
 	- [作者讲解](https://weibo.com/2014366965/4966613864157758?wm=3333_2001&from=10DB193010&sourcetype=weixin&s_trans=6643844464_4966613864157758&s_channel=4)
 	- **status** : Published in **Nature.** Accepted on September 15
 	- **background** : In the nearby Universe, there are **hundreds** of **ultra-compact dawrf galaxies** (UCDs), with half-light radii $r_{h}$ of approximatesly **10-100 parsecs** and **stellar masses** $\approx 10^6-10^8 M_{\odot}$ . The detection of extended stellar envelopes, complex star formation histories, elecates mass-to-light ratio and supermassive black holes suggests that some UCDs are **remnant nuclear star clusters** of **tidally stripped dawrf galaxies** or even ancient compact galaxies. However, only a **few** objects have been found in the transient stage of tidal stripping. 超致密矮星系可能是潮汐剥离矮星系的残余核星团，但观测中只看到了很少的正在进行潮汐剥离的矮星系，这种猜测的演化道路并没有被完全追踪。
