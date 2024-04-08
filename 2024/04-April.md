@@ -19,7 +19,7 @@
 	- 研究了蓝的大质量漩涡星系，按照高/低$\Sigma$ 区分，结论是bar/并和导致高恒星形成
 
 - [INvestigations of massive Filaments ANd sTar formation (INFANT). I. Core Identification and Core Mass Function](https://arxiv.org/abs/2404.03858)
-	- 找了一些云，计算了云的 core mass function，derive a power-law index of −1.15 ± 0.12 for the whole sample, and −1.70 ± 0.25 for the prestellar population；发现随着云的演化，CMF呈陡峭话趋势(−0.89 ± 0.15 for the young group v.s. −1.44 ± 0.25 for the evolved group)，对星团形成会有影响
+	- 找了一些云，计算了云的 core mass function，derive a power-law index of −1.15 ± 0.12 for the whole sample, and −1.70 ± 0.25 for the prestellar population；发现随着云的演化，CMF呈陡峭化趋势(−0.89 ± 0.15 for the young group v.s. −1.44 ± 0.25 for the evolved group)，对星团形成会有影响
 
 - [derive a power-law index of −1.15 ± 0.12 for the whole sample, and −1.70 ± 0.25 for the prestellar population](https://arxiv.org/abs/2404.03939) Mark den Brok, Davor Krajnović, Eric Emsellem
 	- **background** : Star formation in the early Universe has left its imprint on the chemistry of observable stars in galaxies. 宇宙早期
@@ -27,5 +27,6 @@
 
 - [Benchmarking the effective temperature scale of red giant branch stellar models: the case of the metal-poor halo giant HD 122563](https://arxiv.org/abs/2404.04010) O.L.Creevey, S. Cassisi, F. Thévenin
 	- 用一颗贫金属晕巨星 HD 122563校准了红巨星分支的恒星模型
+
 
 
