@@ -21,7 +21,7 @@
 - [INvestigations of massive Filaments ANd sTar formation (INFANT). I. Core Identification and Core Mass Function](https://arxiv.org/abs/2404.03858)
 	- 找了一些云，计算了云的 core mass function，derive a power-law index of −1.15 ± 0.12 for the whole sample, and −1.70 ± 0.25 for the prestellar population；发现随着云的演化，CMF呈陡峭化趋势(−0.89 ± 0.15 for the young group v.s. −1.44 ± 0.25 for the evolved group)，对星团形成会有影响
 
-- [derive a power-law index of −1.15 ± 0.12 for the whole sample, and −1.70 ± 0.25 for the prestellar population](https://arxiv.org/abs/2404.03939) Mark den Brok, Davor Krajnović, Eric Emsellem
+- [Recovery of the low- and high-mass end slopes of the IMF in massive early-type galaxies using detailed elemental abundances](https://arxiv.org/abs/2404.03939) Mark den Brok, Davor Krajnović, Eric Emsellem
 	- **background** : Star formation in the early Universe has left its imprint on the chemistry of observable stars in galaxies. 宇宙早期
 	- 测了25个质量非常大的星系的元素丰度，进而限制低质量段的初始质量函数，存在的问题是其中的不确定性（ex. 不同星族带来的）可能非常大。发现IMF随时间变化，for massive galaxies, the high-mass end IMF slope is representative of the very early age and the low-mass end slope of the later star formation（comment. 看起来没什么信息量）
 
