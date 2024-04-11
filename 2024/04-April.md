@@ -28,5 +28,8 @@
 - [Benchmarking the effective temperature scale of red giant branch stellar models: the case of the metal-poor halo giant HD 122563](https://arxiv.org/abs/2404.04010) O.L.Creevey, S. Cassisi, F. Thévenin
 	- 用一颗贫金属晕巨星 HD 122563校准了红巨星分支的恒星模型
 
+## Tue, 9 Apr
+- []
+
 
 
