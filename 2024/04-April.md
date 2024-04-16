@@ -33,3 +33,28 @@
 
 ## Wed, 10 Apr
 
+
+# Week 16
+## Mon, 15 Apr
+- [Three-Body Binary Formation in Clusters: Analytical Theory](https://arxiv.org/abs/2404.08040) Yonadav Barry Ginat, Hagai B. Perets
+	- **background** : Binary formation in clusters through triple encounters between three unbound stars, 'three-body' binary formation, is one of the main dynamical formation processes of binary systems in dense environments.
+
+- 🍃 [JWST Discovery of 40+ Microlensed Stars in a Magnified Galaxy, the "Dragon" behind Abell 370](https://arxiv.org/abs/2404.08045) Yoshinobu Fudamoto, Fengwu Sun, Jose M. Diego
+	- **status** : submitted to **Nature Astronomy**
+
+- [FORGE'd in FIRE III: The IMF in Quasar Accretion Disks from STARFORGE](https://arxiv.org/abs/2404.08046) Philip F. Hopkins, Michael Y. Grudic, Kyle Kremer
+	- 戴老师评价 ：Philip 一个东西可以发10篇文章 
+	- 考虑 xxx 可以在QAD上看到top-heavy 的 IMF
+
+- [The Origin of Young Stellar Populations in NGC 1783: Accretion of External Stars](https://arxiv.org/abs/2404.08047) Li Wang(王莉), Licai Deng, Xiaoying Pang 中山大学
+	- **background** : The presence of young stellar populations in the Large Magellanic Cloud cluster NGC 1783 has caught significant attention, with suggestions ranging from it being a genuine secondary stellar generation to a population of blue straggler stars or simply contamination from background stars.
+
+- [Searching for Hyper-compact star clusters in the Milky Way using LAMOST and Gaia](https://arxiv.org/abs/2404.08234) Hao Wu, Haibo Yuan(苑海波), Yilun Wang 北师大
+	- 朱老师评价 ：如果是真的话，还挺有意思的
+	- 
+
+- [Flashlights: Microlensing vs Stellar Variability of Transients in the Star Clusters of the Dragon Arc](https://arxiv.org/abs/2404.08571)
+
+- [Does DESI 2024 Confirm ΛCDM?](https://arxiv.org/abs/2404.08633)
+	- 朱老师评价 ：带问号的答案一般是 NO（也确实是NO）
+
