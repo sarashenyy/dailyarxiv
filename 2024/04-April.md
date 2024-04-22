@@ -64,4 +64,17 @@
 
 ## Thu, 18 Apr
 
+# Week 17
+## Mon, 22 Apr
+- [The JWST-SUSPENSE Ultradeep Spectroscopic Program: Survey Overview and Star-Formation Histories of Quiescent Galaxies at 1 < z < 3]() Martje Slob,Mariska Kriek,Aliza G. Beverage
+	- 20个宁静星系，宁静星系没有发射线，要得到吸收线需要高质量光谱，光谱能够得到质量和恒星形成历史，发现这些星系不再有恒星形成，给出一个恒星形成时标（～0.5-4Gyr）
+	- 利用JWST做的小样本统计观测
 
+- [Observed abundance of X-ray low surface brightness clusters in optical, X-ray, and SZ selected samples]()
+	- 用不同波段选galaxy cluster是否有选择偏差，认为 mean surface brightness 是一个选源的比较好的探针
+
+- [Probing the relationship between early star formation and CO in the dwarf irregular galaxy WLM with JWST]()
+	- irregular galaxy，有恒星形成，低金属丰度，经常用来看低金属丰度的恒星形成；主要看分子云CO核和恒星形成的关系；用ALMA在红外波段看恒星；在CO核附近有很多嵌埋星团
+
+- [The longevity of the oldest open clusters: Structural parameters of NGC 188, NGC 2420, NGC 2425, NGC 2682, NGC 6791, NGC 6819]()
+	- 年龄为1Gyr的疏散星团（这几个都是比较有名的距离很近的特别年老的疏散星团），去看150pc中Gaia DR3的星团空间分布（看得范围比较大）。发现这些星团比从前认识到的更延展，空间分布显示其中3个沿着轨道有一些结构（应该是潮汐瓦解）；发现20%的成员星都已经不再被束缚；发现这些星团能存活到今天的主要作用就是它们没有离银盘太近
