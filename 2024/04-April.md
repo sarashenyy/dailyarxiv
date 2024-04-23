@@ -78,3 +78,5 @@
 
 - [The longevity of the oldest open clusters: Structural parameters of NGC 188, NGC 2420, NGC 2425, NGC 2682, NGC 6791, NGC 6819]()
 	- 年龄为1Gyr的疏散星团（这几个都是比较有名的距离很近的特别年老的疏散星团），去看150pc中Gaia DR3的星团空间分布（看得范围比较大）。发现这些星团比从前认识到的更延展，空间分布显示其中3个沿着轨道有一些结构（应该是潮汐瓦解）；发现20%的成员星都已经不再被束缚；发现这些星团能存活到今天的主要作用就是它们没有离银盘太近
+
+## Tue, 23 Apr
