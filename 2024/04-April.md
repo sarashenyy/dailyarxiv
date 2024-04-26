@@ -80,3 +80,24 @@
 	- 年龄为1Gyr的疏散星团（这几个都是比较有名的距离很近的特别年老的疏散星团），去看150pc中Gaia DR3的星团空间分布（看得范围比较大）。发现这些星团比从前认识到的更延展，空间分布显示其中3个沿着轨道有一些结构（应该是潮汐瓦解）；发现20%的成员星都已经不再被束缚；发现这些星团能存活到今天的主要作用就是它们没有离银盘太近
 
 ## Tue, 23 Apr
+
+## Wed, 24 Apr
+
+## Thu, 25 Apr
+
+## Fri, 26 Apr
+- [Offset of M54 from the Sagittarius Dwarf Spheroidal Galaxy](https://arxiv.org/abs/2404.16184) Zhaozhou An, Matthew G. Walker, Andrew B. Pace
+	- 给出了人马座矮星系（Sagittarius dwarf spheroidal galaxy, Sgr）中心星（Gaia和APOGEE）的2D位置（沿视线投影），自行和视向速度的结果
+	- **method** : mixture model considering Sgr's nuclear star cluster M54 and the Milky Way foreground
+	- **results** : 
+		- find an offset of $0.295\pm 0.029$ degrees between the inferred centroids of Sgr and M54, corresponding to a (projected) physical separation of $0.135\pm 0.013$ kpc. The detected offset might plausibly be driven by unmodelled asymmetry in Sgr's stellar configuration; however, standard criteria for model selection favour **our symmetric model** over an alternative that allows for bilateral asymmetry. 发现推断的Sgr和M54的中心偏移了，可能是由于建模是只假设了对称导致
+		- infer an offset between the proper motion centres of Sgr and M54 of $[\Delta\mu_{\alpha}\cos\delta,\Delta\mu_{\delta}]=[4.9, -19.7] \pm [6.8, 6.2]$ $\mu$as yr$^{-1}$, with magnitude similar to the covariance expected due to spatially-correlated systematic error. 导致自行偏移
+		- infer an offset of $4.1\pm 1.2$ km s$^{-1}$ in line-of-sight velocity. 导致视向速度偏移
+		- calculate the recent orbital history of a simplified Sgr/M54 system, which we demonstrate to be sensitive to any line-of-sight distance offset between M54 and Sgr, and to the distribution of dark matter within Sgr. 认为Sgr和M54的轨道对它们之间的视向速度偏差和内部暗物质分布敏感
+
+	- [Calibrating non-parametric morphological indicators from JWST images for galaxies over 0.5<z<3](https://arxiv.org/abs/2404.16686) Jian Ren, F. S. Liu, Nan Li （师兄！）
+		- 首次描绘出JWST星系本征形态的演化轨迹
+		- **background** : 基于JWST高红移星系形态演化的研究得出了多样化的结论，差异性主要源于不同红移下图像数据受到不同程度的观测效应的影响。
+		- **method** : utilize a sample of over **800 TNG50 simulated galaxies** with log($M_*$/M$_\odot$)$>9$ at $0.5<z<3$ to investigate the differences in **non-parametric morphological indicators** ($C$, $S$, $Gini$, $M_{\rm 20}$, $A_{\rm O}$, and $D_{\rm O}$) derived from noise-free and high-resolution TNG50 images and mock images simulated to have the same observational conditions as JWST NIRCam. 采用了超过800个TNG50模拟星系样本，对JWST观测图像中的星系非参数化形态指标进行了精确校准。
+		- **results** : quantify the relationship between intrinsic and observed values of the morphological indicators and accordingly apply this calibration to over **4600 galaxies** in the same stellar mass and redshift ranges observed in JWST CEERS and JADES surveys 将这一校准方法应用于大约4600个JWST观测星系的大规模样本上，首次详细描绘了红移0.5至3范围内星系本征形态的演化轨迹
+
