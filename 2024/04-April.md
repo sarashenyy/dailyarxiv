@@ -66,24 +66,54 @@
 
 # Week 17
 ## Mon, 22 Apr
-- [The JWST-SUSPENSE Ultradeep Spectroscopic Program: Survey Overview and Star-Formation Histories of Quiescent Galaxies at 1 < z < 3]() Martje Slob,Mariska Kriek,Aliza G. Beverage
+- [The JWST-SUSPENSE Ultradeep Spectroscopic Program: Survey Overview and Star-Formation Histories of Quiescent Galaxies at 1 < z < 3](https://arxiv.org/abs/2404.12432) Martje Slob,Mariska Kriek,Aliza G. Beverage
 	- 20个宁静星系，宁静星系没有发射线，要得到吸收线需要高质量光谱，光谱能够得到质量和恒星形成历史，发现这些星系不再有恒星形成，给出一个恒星形成时标（～0.5-4Gyr）
 	- 利用JWST做的小样本统计观测
 
-- [Observed abundance of X-ray low surface brightness clusters in optical, X-ray, and SZ selected samples]()
+- [Observed abundance of X-ray low surface brightness clusters in optical, X-ray, and SZ selected samples](https://arxiv.org/abs/2404.12435)
 	- 用不同波段选galaxy cluster是否有选择偏差，认为 mean surface brightness 是一个选源的比较好的探针
 
-- [Probing the relationship between early star formation and CO in the dwarf irregular galaxy WLM with JWST]()
+- [Probing the relationship between early star formation and CO in the dwarf irregular galaxy WLM with JWST](https://arxiv.org/abs/2404.12482)
 	- irregular galaxy，有恒星形成，低金属丰度，经常用来看低金属丰度的恒星形成；主要看分子云CO核和恒星形成的关系；用ALMA在红外波段看恒星；在CO核附近有很多嵌埋星团
 
-- [The longevity of the oldest open clusters: Structural parameters of NGC 188, NGC 2420, NGC 2425, NGC 2682, NGC 6791, NGC 6819]()
+- [The longevity of the oldest open clusters: Structural parameters of NGC 188, NGC 2420, NGC 2425, NGC 2682, NGC 6791, NGC 6819](https://arxiv.org/abs/2404.12523)
 	- 年龄为1Gyr的疏散星团（这几个都是比较有名的距离很近的特别年老的疏散星团），去看150pc中Gaia DR3的星团空间分布（看得范围比较大）。发现这些星团比从前认识到的更延展，空间分布显示其中3个沿着轨道有一些结构（应该是潮汐瓦解）；发现20%的成员星都已经不再被束缚；发现这些星团能存活到今天的主要作用就是它们没有离银盘太近
 
 ## Tue, 23 Apr
+- [SED Analysis of the Old Open Cluster NGC 188](https://arxiv.org/abs/2404.13115) Deniz Cennet Dursun, Seval Taşdemir, Seliz Koç
+	- **SED拟合程序**：SpectrAl eneRgy dIstribution bAyesian moDel averagiNg fittEr (ARIADNE; Vines & Jenkins 2022) code
+	- investigate the fundamental astrophysical parameters of the **old open cluster NGC 188** through two complementary methods: **isochron-fitting** and **spectral energy distribution (SED) analysis** 
+	- **membership** : GaiaDR3, 868 member stars, $P \geq 0.5$
+	- The mean proper-motion components and trigonometric parallaxes of the cluster are derived as ($\mu_{\alpha}\cos \delta$, $\mu_{\delta}$) = (-$2.314 \pm 0.002$, -$1.022 \pm 0.002$) mas yr$^{-1}$ and $\varpi = 0.550 \pm 0.023$, respectively.
+	- **method** & **results**: 
+		- **isochrone fitting** :  $E(G_{BP}-G_{RP})=0.066\pm 0.012$ mag, $d=1806 \pm21$ pc, $t=7.65 \pm 1.00$ Gyr
+		- **SED analyses** : for 412 out of the 868 cluster members, obtained colour excess, distance and age of the cluster as $E(B-V)=0.034\pm 0.030$ mag, $d=1854\pm 148$ pc, and $t=7.78\pm 0.23$ Gyr
+		- The analysis of member stars was revealed patterns of extinction in the $V$-band, with higher values of A(V) observed in the lower right quadrant of the cluster
+		- SED analyse in agreement with stellar evolution model for temperature and surface gravity
+		- identify and detected 19 previously confirmed **blue straggler stars** within NGC 188
+
+- [Open Cluster Dynamics under the Influence of Outflow-Ambient Interactions](https://arxiv.org/pdf/2404.13809)Muxin Liu, Lile Wang, Xiaoting Fu
+	- 数值模拟发现，在外流-环境相互作用的情况下，会对具有外流的恒星产生“负动力学摩擦”（NDF）效应，外流与环境气体碰撞的引力反馈会加速恒星，导致具有高速风的恒星被驱逐出星团。这种效应会随着气体密度的提高而增强。
+	- **background** : 
+		- Outflowing stars impinging upon ambient gas experience accelerations due to the gravitational feedback from the morphology of the interaction betweem the outflow and the ambient gas. 外流恒星撞击环境气体时，由于外流恒星与环境气体之间相互作用形态的引力反馈，会产生加速度（外流恒星会由于其外流与环境气体的引力反馈而产生加速度）
+		- Such "negative dynamical friction" (NDF), in contrast to the conventional "dynamical friction" (DF), is studied for its impact on the dynamics of open clusters immersed in a uniform ambient gas.与传统的 "动力摩擦"（DF）不同，我们研究了这种 "负动力摩擦"（NDF）对沉浸在均匀环境气体中的开放星团动力学的影响。
+	- **method** : N-body simulation
+	- **results** : 
+		- 与纯DF模型相比，受NDF影响的星团更蓬松，蒸发得更快，表现为更小的速度弥散，更大的半质量半径和半光半径
+		- 即使没有不对称超新星的“kick”，具有快速风的中子星也会因为强烈的NDF效应而被驱逐出星团
+		- NDF效应会随着环境气体密度的提高而增强
+		- 如果要正确解释星团中恒星动力学的演变，应该考虑外流与气体环境的相互作用
+
+- [The impact of a top-heavy IMF on the formation and evolution of dark star clusters](https://arxiv.org/pdf/2404.14259) Ali Rostami Shirazi, Hosein Haghi, Akram Hasani Zonoozi
+	- 
+
+- [Investigating Mass Segregation of the Binary Stars in the Open Cluster NGC 6819](https://arxiv.org/pdf/2308.15582) Claire Zwicker, Aaron M. Geller, Anna C. Childs
+	- 
 
 ## Wed, 24 Apr
 
 ## Thu, 25 Apr
+
 
 ## Fri, 26 Apr
 - [Offset of M54 from the Sagittarius Dwarf Spheroidal Galaxy](https://arxiv.org/abs/2404.16184) Zhaozhou An, Matthew G. Walker, Andrew B. Pace
