@@ -3,7 +3,7 @@
 - []
 
 # Week 15
-## Mon, 8, Apr
+## Mon, 8 Apr
 - [oMEGACat II -- Photometry and proper motions for 1.4 million stars in Omega Centauri and its rotation in the plane of the sky](https://arxiv.org/abs/2404.03722) Maximilian Häberle, Nadine Neumayer, Andrea Bellini
 	- 用HST数据，测了球状星团中的140颗星的动力学数据和HST七个滤光片的精确光度测量，由此可以进行CMD研究从而区分出星团中的多星族，公开了星表
 
