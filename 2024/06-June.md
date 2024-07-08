@@ -24,12 +24,12 @@
 		- calculate a map of carbon monoxide $\rm{CO-to-H_2}$ 测CO的目的，最终是看恒星形成，所以要转换到氢上
 
 - [Contribution of young massive star clusters to Galactic diffuse γ-ray emission](https://arxiv.org/abs/2406.04087) Stefano Menchiari, Giovanni Morlino, Elena Amato
-	- **Context**: 
+	- **context**: 
 		- Young massive stellar clusters (YMSCs) have emerged as potential γ-ray sources, after the recent association of a dozen YMSCs with extended γ-ray emission. The large size of the detected halos, comparable to that of the wind-blown bubble expected around YMSCs, makes the γ-ray detection of individual YMSCs rather challenging.
 		- As a result, the emission from most of the Galactic YMSCs could be unresolved, thus contributing to the diffuse γ-ray radiation observed along the Galactic Plane.
-	- **Aims**: estimate the possible contribution to the Galactic diffuse γ-ray emission from a synthetic population of YMSCs
-	- **Methods**: evaluate the contribution of γ-ray emission relying on the simulation of synthetic populations of YMSCs based on the observed properties of local clusters; compute the γ-ray emission from each cluster assuming that the radiation is purely hadronic and produced by cosmic rays
-	- **Results**: 
+	- **aims**: estimate the possible contribution to the Galactic diffuse γ-ray emission from a synthetic population of YMSCs
+	- **methods**: evaluate the contribution of γ-ray emission relying on the simulation of synthetic populations of YMSCs based on the observed properties of local clusters; compute the γ-ray emission from each cluster assuming that the radiation is purely hadronic and produced by cosmic rays
+	- **results**: 
 		- find that the γ-ray emission from unresolved YMSCs can significantly contribute to the observed Galactic diffuse flux, especially in the inner part of the Galaxy. 
 		- The result is independent of the assumed particle transport, but an important role is played by Wolf-Rayet stars. 
 		- The predicted γ-ray flux should be considered as a lower limit, given that our calculation neglects the contribution of supernovae exploding in YMSCs.
@@ -52,4 +52,7 @@
 > apjs影响因子高，有catalog，明明有科学但是还是发apjs，就是因为分区和影响因子，对学生去高校找工作有利
 
 # Week 24
+## Mon,10 Jun
+
+## Tue, 11 Jun
 
