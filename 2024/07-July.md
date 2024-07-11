@@ -22,3 +22,34 @@
 	- **new insights**: 
 		- a new approach to indirectly measure the dark matter content of galaxy clusters, with an error up to around 30% at the $1\sigma$ confidence level
 		- a new and independent method to measure the dark matter mass in cosmic structures, and a novel constraint to the accepted $\Lambda$CDM paradigm.
+
+# Week 28
+## Mon, 8 Jul
+- [Stellar Metallicities and Gradients in the Faint M31 Satellites Andromeda XVI and Andromeda XXVIII](https://arxiv.org/abs/2407.04698) Sal Wanying Fu, Daniel R. Weisz, Else Starkenburg
+	- present **~300 stellar metallicity** measurements in **two faint M31 dwarf galaxies**, **Andromeda XVI** (16) ($M_v=-7.5$) and **Andromeda XXVIII** (28) ($M_v = -8.8$), derived using metallicity-sensitive Calcium H&K narrow-band HST imaging
+	- the **first individual stellar metallicities in And XVI** (95 stars)
+	- **results**:
+		- And XVI: $<[\rm{Fe/H}]>=-2.17^{+0.05}_{-0.05}$, $\sigma \rm{[Fe/H]}=0.33^{+0.07}_{-0.07}$, $\Delta \rm{[Fe/H]}=-0.23\pm0.15 \ \rm{dex R}^{-1}$ 
+		- And XXVIII:  $<[\rm{Fe/H}]>=-1.95^{+0.04}_{-0.04}$, $\sigma \rm{[Fe/H]}=0.34^{+0.07}_{-0.07}$, $\Delta \rm{[Fe/H]}=-0.46\pm0.10 \ \rm{dex R}^{-1}$ 
+		- And XVI is more metal-rich than MW UFDs of similar luminosity, which may be a result of its unusually extended star formation history
+		- the stellar metallicity gradient measurements are **among the first for faint ($L ≲ 10^6 L\odot$) galaxies outside the Milky Way halo**.
+		- consistent with predictions from the FIRE simulations
+
+- [Isochrone fitting to the open cluster M67 in the era of Gaia and improved model physics](https://arxiv.org/abs/2407.03526) Claudia Reyes (澳大利亚), Dennis Stello, Marc Hon
+	- **create new stellar models** that avoid commonly used simplifications in 1D stellar modeling, such as mass-independent core overshooting and a constant mixing length parameter 基于改进的疏散星团M67的等龄线，创建了新的恒星模型，避免常用的1D恒星建模的简化（质量依赖的core shooting, 常数的混合长度）
+	- deliver a **precise isochrone** specifically designed for **M67**
+	- **method**: qualitative approach to adjust the input physics to match the well-defined CMD sequence, test the model-predicted masses against a known eclipsing binary system at the main sequence turnoff of the cluster
+	- **results**:
+		- create new stellar models
+		- deliver precise isochrone specifically for M67
+		- despite using improvements in photometry and stellar physics, we **cannot match the masses of both binary components with the same theoretical isochrone**
+		- a **chi-square-based isochrone fitting** approach using our preferred input physics results in a cluster age of $3.95^{+0.16}_{-0.15}$ Gyr
+
+## Wed, 10 Jul
+- [Probing populations of dark stellar remnants in the globular clusters 47 Tuc and Terzan 5 using pulsar timing](https://arxiv.org/abs/2407.06274) Peter J. Smith, Vincent Hénault-Brunet
+	- present a **new method** to combine multimass equilibrium dynamical models and pulsar timing data to constrain the mass distribution and remnant populations of Milky Way globular clusters (GCs) 提出一种结合动力学方法和脉冲星计时的新方法，来约束GC的质量分布
+	- 动力学方法比较难测，用脉冲星计时的方法就可以测质量，球状星团中发现有很多脉冲星
+	- **results**:
+
+- [Reconciling M/L Ratios Across Cosmic Time: a Concordance IMF for Massive Galaxies](https://arxiv.org/abs/2407.06281) Pieter van Dokkum, Charlie Conroy
+	- 
