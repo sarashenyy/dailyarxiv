@@ -71,7 +71,7 @@
 		- show synchronicity between the northeastern shell's SFH with the Large Magellanic Cloud's (LMC) northern arm, which we attribute to the **interaction** history of the SMC with the LMC and the Milky Way (MW) over the past 500 Myr
 
 - 🍃[A Benchmark JWST Near-Infrared Spectrum for the Exoplanet WASP-39b](https://arxiv.org/abs/2407.13893) A. L. Carter, E. M. May, N. Espinoza, L. Welbanks
-	- status: Nature Astronomy
+	- **status**: Nature Astronomy
 	- 用来展示JWST强大能力的论文，把JWST四个设备全用上了，有很宽的波段（但是JWST也有缺点，没有高分辨，高分辨还是靠地面）
 
 - [Accurately Estimating Redshifts from CSST Slitless Spectroscopic Survey using Deep Learning](https://arxiv.org/abs/2407.13991) 周兴晨，巩岩，张鑫
