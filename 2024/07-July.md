@@ -54,3 +54,41 @@
 - [Reconciling M/L Ratios Across Cosmic Time: a Concordance IMF for Massive Galaxies](https://arxiv.org/abs/2407.06281) Pieter van Dokkum, Charlie Conroy
 
 # Week 29
+
+# Week 30
+## Mon, 22 Jul
+- [The First Evidence of a Host Star Metallicity Cut-off In The Formation of Super-Earth Planets](https://arxiv.org/abs/2407.13821) Kiersten M. Boley, Jessie L. Christiansen, Jon Zink
+	- 恒星金属丰度与super-earth行星出现率有关，首次发现在低金属丰度[Fe/H]<-0.5的时候，没有这种关系
+
+- [Unveiling the purely young star formation history of the SMC's northeastern shell from colour-magnitude diagram fitting](https://arxiv.org/abs/2407.13876) Joanna D. Sakowska, Noelia E. D. Noël
+	- obtain a quantitative star formation history (SFH) of a shell-like structure ('shell') located in the northeastern part of the Small Magellanic Cloud (SMC) 测量了SMC东北部壳状结构的恒星形成历史
+	- **data**: the Survey of the MAgellanic Stellar History (SMASH)
+	- **method**: compute the SFHs with CMD fitting
+	- **results**:
+		- for the first time, a novel technique that uses red clump (RC) stars from the CMDs to assess and account for the SMC's line-of-sight depth effect present during the SFH derivation; accounting for this effect recovers a more accurate SFH
+		- quantify a **7 kpc line-of-sight depth** present in the CMDs
+		- the northeastern shell is primarily composed of stars younger than 500 Myrs, with significant star formation enhancements around **250 Myr and 450 Myr**
+		- show synchronicity between the northeastern shell's SFH with the Large Magellanic Cloud's (LMC) northern arm, which we attribute to the **interaction** history of the SMC with the LMC and the Milky Way (MW) over the past 500 Myr
+
+- 🍃[A Benchmark JWST Near-Infrared Spectrum for the Exoplanet WASP-39b](https://arxiv.org/abs/2407.13893) A. L. Carter, E. M. May, N. Espinoza, L. Welbanks
+	- status: Nature Astronomy
+	- 用来展示JWST强大能力的论文，把JWST四个设备全用上了，有很宽的波段（但是JWST也有缺点，没有高分辨，高分辨还是靠地面）
+
+- [Accurately Estimating Redshifts from CSST Slitless Spectroscopic Survey using Deep Learning](https://arxiv.org/abs/2407.13991) 周兴晨，巩岩，张鑫
+	- 用CSST无缝光谱估计红移
+	- **method**: BNN, CNN
+
+- [On the tomographic cluster clustering as a cosmological probe](https://arxiv.org/abs/2407.14144) Massimiliano Romanello, Federico Marulli, Lauro Moscardini
+	- 星系团的观测可以限制宇宙学参$S_8$
+
+- [Towards a universal analytical model for Population III star formation: interplay between feedback and fragmentation](https://arxiv.org/abs/2407.14294) Boyuan Liu, James Gurian, Kohei Inayoshi
+	- **context**: 
+		- JWST has brought us new insights into Cosmic Dawn with tentative detection of the unique signatures of metal-free Population III (Pop III) stars, such as strong HeII emission, extremely blue UV spectrum, and enhanced nitrogen abundance. JWST尝试探测到Pop III星族（无金属）恒星的特征，为Cosmic Dawn提供新见解
+		- Self-consistent theoretical predictions of the formation rates, sites, and masses of Pop III stars are crucial for interpreting the observations, but are challenging due to complex physical processes operating over the large range of length scales involved. Pop III星族恒星的形成速率、位置和质量的自洽理论预测，对解释观测结果很重要，但是这样的理论也很有挑战
+	- **method**:
+		- 将小尺度恒星形成模型与宇宙学模拟相结合，来调节Pop III恒星形成条件的大尺度物理
+	- **results**:
+		- 模型首次考虑了反馈和碎片之间的相互作用
+
+- [The Ks-band luminosity function of the rich cluster VC04 in the Vela supercluster](https://arxiv.org/abs/2407.14425) N. Hatamkhani, R. C. Kraan-Korteweg, S. L. Blyth
+	- 船帆座超星系团 (Vela Supercluster)中，最富集的星系团VC04，和VC02以及VC08的光度函数
