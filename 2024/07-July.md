@@ -92,3 +92,11 @@
 
 - [The Ks-band luminosity function of the rich cluster VC04 in the Vela supercluster](https://arxiv.org/abs/2407.14425) N. Hatamkhani, R. C. Kraan-Korteweg, S. L. Blyth
 	- 船帆座超星系团 (Vela Supercluster)中，最富集的星系团VC04，和VC02以及VC08的光度函数
+
+- [A "Rosetta Stone" for Studies of Spatial Variation in Astrophysical Data: Power Spectra, Semivariograms, and Structure Functions](https://arxiv.org/abs/2407.14068) Benjamin Metha, Sabrina Berger (墨尔本大学)
+	- **comments**: A pedagogical note, not submitted to any journals. 
+	- **context**: Through different historical choices for mathematical conventions, many different subfields of spatial data analysis have evolved their own language for analysing structures and quantifying correlation in spatial data. Because of this history, terminology from a myriad of different fields is used, often to describe two data products that are mathematically identical. 由于历史的原因，术语及数学惯例没有得到统一
+	- **content**:
+		- define and describe the differences and similarities between **the power spectrum, the two-point correlation function, the covariance function, the semivariogram, and the structure functions**, in an effort to unify the languages used to study spatial correlation
+		- highlight under which **conditions** these data products are useful and describe how the results found using one method can be translated to those found using another, allowing for easier comparison between different subfields' native methods
+	- **Rosetta Stone**: hope for this document to be a "Rosetta Stone" for translating between different statistical approaches, allowing results to be shared between researchers from different backgrounds, facilitating more cross-disciplinary approaches to data analysis.
