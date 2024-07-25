@@ -100,3 +100,17 @@
 		- define and describe the differences and similarities between **the power spectrum, the two-point correlation function, the covariance function, the semivariogram, and the structure functions**, in an effort to unify the languages used to study spatial correlation
 		- highlight under which **conditions** these data products are useful and describe how the results found using one method can be translated to those found using another, allowing for easier comparison between different subfields' native methods
 	- **Rosetta Stone**: hope for this document to be a "Rosetta Stone" for translating between different statistical approaches, allowing results to be shared between researchers from different backgrounds, facilitating more cross-disciplinary approaches to data analysis.
+
+## Thu, 25 Jul
+- [She's Got Her Mother's Hair: End-to-End Collapsar Simulations Unveil the Origin of Black Holes' Magnetic Field](https://arxiv.org/abs/2407.16745) Ore Gottlieb, Mathieu Renzo, Brian D. Metzger
+	- 陆老师评价：是个重要的工作，Figure 1 以后会被反复用。![[07-July.png]]
+
+- [The stellar distribution in ultra-faint dwarf galaxies suggests deviations from the collision-less cold dark matter paradigm](https://arxiv.org/abs/2407.16755) Jorge Sanchez Almeida(西班牙), Ignacio Trujillo, Angel R. Plastino 
+	- **comments**: ApJL
+	- 6个ultra-faint dwarf galaxies(UFD), 这些暗弱的星系是暗物质主导的，可见的恒星($<10^6 M_{\odot}$)只是作为示踪，这篇工作的观测结果（中心是平的profile）不支持NFW（中心有尖的Core collapse profile） profile，认为暗物质可能并不是像NFW所说的那样无碰撞的冷暗物质。
+	- 题外：但是也有别人找的观测源能很好的符合NFW profile
+	- 是一个好文章，因为看了恒星质量很小的星系，别人很少看过，以后可能会有关于这个工作更多的follow up
+
+- [The Extreme Low-mass End of the Mass-Metallicity Relation at z∼7](https://arxiv.org/abs/2407.17110) 
+
+- 
