@@ -13,3 +13,8 @@
 		- on the observational side, **hypervelocity stars** have been the target of such searches, but without good candidates 超高速恒星
 		- on the theoretical side, stellar engine concepts have been proposed but are **poorly linked to observable technosignatures**
 	- **双星发动机**：由于我们星系中大约一半的恒星都位于双星系统中，生命也可能发展，因此我们引入了双星发动机模型。
+
+- [Emission Line Velocity, Metallicity and Extinction Maps of the Small Magellanic Cloud](https://arxiv.org/abs/2411.05523) Philip Lah, Matthew Colless, Francesco D'Eugenio
+	- 使用澳大利亚国立大学(ANU) 的2.3米望远镜和广角光谱仪(WiFeS) 从多个角度测量了SMC的光学发射线，计算了gas-phase metallicity, extinction, H$\alpha$ radial velocity and H$\alpha$ velocity dispersion
+		- **metallicity gradient**: from the centre to the north of the galaxy of $\sim -0.095\ \rm{dex/kpc}$  with a shallower metallicity gradient from the centre to the south of the galaxy of $\sim -0.013\ \rm{dex/kpc}$
+		- **extinction gradient**: $\sim-0.086\ \rm{E(B-V)/kpc}$ from the centre going north and shallower going from the centre to the south of $\sim-0.0089\ \rm{E(B-V)/kpc}$
