@@ -18,3 +18,18 @@
 	- 使用澳大利亚国立大学(ANU) 的2.3米望远镜和广角光谱仪(WiFeS) 从多个角度测量了SMC的光学发射线，计算了gas-phase metallicity, extinction, H$\alpha$ radial velocity and H$\alpha$ velocity dispersion
 		- **metallicity gradient**: from the centre to the north of the galaxy of $\sim -0.095\ \rm{dex/kpc}$  with a shallower metallicity gradient from the centre to the south of the galaxy of $\sim -0.013\ \rm{dex/kpc}$
 		- **extinction gradient**: $\sim-0.086\ \rm{E(B-V)/kpc}$ from the centre going north and shallower going from the centre to the south of $\sim-0.0089\ \rm{E(B-V)/kpc}$
+
+# Week 47
+## Mon 18, Nov
+- [The Last Arecibo Message](https://arxiv.org/abs/2411.09790) Kelby D. Palencia-Torres, César F. Quiñones-Martínez, Javier A. García Sepúlveda
+	- The Arecibo Message was a brief binary-encoded communication transmitted into space from the Arecibo Observatory on November 16, 1974, intended to demonstrate human technological prowess.
+	- 在2018年，为了纪念这条信息发出40周年，阿雷西博天文台发起了新阿雷西博信息竞赛，本文的 Boriken Voyagers 团队于 2020 年 8 月被认定为比赛获胜者。虽然比赛的主要目标是概念化而不是传递信息，但 2020 年 12 月阿雷西博望远镜的倒塌阻碍了任何后续的传输工作。
+	- 在2024，为了纪念阿雷西博信息50周年，本文介绍了最初为阿雷西博望远镜开发的最后一条阿雷西博信息。
+	- If the original message says "**we are a form of life reaching out to connect**", our message says "**we are ready to explore the universe together**." The prospect of transmitting this or a similar message remains an open question.
+
+- [Discovery of a Rare Group of Dwarf Galaxies in the Local Universe](https://arxiv.org/abs/2411.10045) Sanjaya Paudel, Cristiano G. Sabiu, Suk-Jin Yoon
+	- report the discovery of a **rare isolated group of five dwarf galaxies** located at **z = 0.0086 (D = 36 Mpc)** . 
+	- All member galaxies are **star-forming, blue, and gas-rich** with g−r indices ranging from 0.2 to 0.6 mag, and two of them show signs of ongoing mutual interaction
+	- The most massive member of the group has a stellar mass that is half of the Small Magellanic Cloud stellar mass
+	- **有趣的地方**：Interestingly, **all galaxies found in the group are aligned along a straight line in the plane of the sky**. The observed spatial extent of the member galaxies is 154 kpc, and their relative line-of-sight velocity span is within 75 km s−1. Using the spatially resolved optical spectra provided by DESI EDR, we **find that three group members share a common rotational direction**.
+	- 讨论了此类系统在矮星系群的形成和演化以及检验大尺度结构形成理论方面可能具有的重要性
