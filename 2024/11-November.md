@@ -33,3 +33,33 @@
 	- The most massive member of the group has a stellar mass that is half of the Small Magellanic Cloud stellar mass
 	- **有趣的地方**：Interestingly, **all galaxies found in the group are aligned along a straight line in the plane of the sky**. The observed spatial extent of the member galaxies is 154 kpc, and their relative line-of-sight velocity span is within 75 km s−1. Using the spatially resolved optical spectra provided by DESI EDR, we **find that three group members share a common rotational direction**.
 	- 讨论了此类系统在矮星系群的形成和演化以及检验大尺度结构形成理论方面可能具有的重要性
+
+## Tue, 19 Nov
+- [The Black Hole−Stellar Mass Relation in the Dwarf-galaxy Regime with Gaia-Sausage/Enceladus and ωCentauri](https://arxiv.org/abs/2411.11251) Guilherme Limberg
+	- 在银河系质量最大的球状星团 $\omega$Cen 中发现的高速星，为其中存在中等质量黑洞的假设提供了证据。
+	- **content:** 
+		- The discovery of fast moving stars in the Milky Way's most massive globular cluster, ωCentauri (ωCen), has provided strong evidence for an intermediate-mass black hole (IMBH) inside of it. 
+		- However, ωCen is known to be the stripped nuclear star cluster (NSC) of an ancient, now-destroyed, dwarf galaxy. 
+		- The best candidate to be the original host progenitor of ωCen is the tidally disrupted dwarf Gaia-Sausage/Enceladus (GSE), a former Milky Way satellite as massive as the Large Magellanic Cloud.
+	- **method:**  
+		- I compare ωCen/GSE with other central BH hosts and place it within the broader context of BH-galaxy (co)evolution. ![[11-November-4.png]]
+		-  I verify that ωCen (GSE), as well as other NSCs with candidate IMBHs and ultracompact dwarf galaxies, also follow the MBH−σ⋆ relation with stellar velocity dispersion.
+	- **results:**
+		- The IMBH of ωCen/GSE follows the scaling relation between central BH mass and host stellar mass (MBH−M⋆) extrapolated from local massive galaxies ($M⋆≳10^{10}M⊙$). Therefore, the IMBH of ωCen/GSE suggests that this relation extends to the dwarf-galaxy regime.
+
+## Wed, 20 Nov
+- [Estimating Dark Matter Halo Masses in Simulated Galaxy Clusters with Graph Neural Networks](https://arxiv.org/abs/2411.12629) Nikhil Garuda, John F. Wu, Dylan Nelson
+	- **status:** accepted at the NeurIPS ML4PS 2024 workshop
+	- 用图神经网络估计模拟星系团中的暗晕质量
+	- **content:** Galaxies grow and evolve in dark matter halos. Because dark matter is not visible, galaxies' halo masses (Mhalo) must be inferred indirectly.
+	- **method:** We present a graph neural network (GNN) model for predicting Mhalo from stellar mass (M∗) in simulated galaxy clusters using data from the IllustrisTNG simulation suite.
+	- **results:** Unlike traditional machine learning models like random forests, our GNN captures the information-rich substructure of galaxy clusters by using spatial and kinematic relationships between galaxy neighbour. A GNN model trained on the TNG-Cluster dataset and independently tested on the TNG300 simulation achieves superior predictive performance compared to other baseline models we tested.
+
+- [RR Lyrae Stars in Intermediate-age Magellanic Clusters: Membership Probabilities and Delay Time Distribution](https://arxiv.org/abs/2411.12741) Bolivia Cuevas-Otahola(墨西哥国立自治大学), Cecilia Mateu(乌拉圭共和国大学), Ivan Cabrera-Ziri
+	- **content:** Recent works have challenged our canonical view of RR Lyrae (RRL) stars as tracers of exclusively old populations (≳10 Gyr) by proposing a fraction of these stars to be of intermediate ages (∼2-5 Gyr). 以前以为 RR Lyrae 是(≳10 Gyr)年老星族的示踪剂，但最近发现其中一小部分属于中等年龄(∼2-5 Gyr)
+	- **aim:** Since it is currently not possible to infer stellar ages directly for individual RRL stars, our goal in this work is to search for these in association to intermediate-age clusters whose reliable ages can then be safely be attributed to the RRL. 因为没有办法直接计算单颗 RR Lyrae 的年龄，所以去看中等年龄星团，用星团的年龄去定RR Lyrae的年龄
+	- **data:** used the **Gaia DR3 Specific Object Study** and **OGLE IV** public catalogues to search for RRL stars around stellar clusters **older than 1~Gyr** in the **Large and Small Magellanic Clouds**.
+	- **results:**  
+		- Modelling membership probabilities based on **proper motion and photometric distance** we obtained a list of **302 RRL stars** associated with Magellanic clusters.
+		- Of these, **23 RRL** are likely members of **10 intermediate-age clusters**: 3 and 7 in the Small and Large Magellanic Clouds, respectively.
+		- For the old population (>8 Gyr) we find $2.6^{+0.4}_{−0.3} RRL/10^5M⊙$. For the young (1-2 Gyr) and intermediate age (2-8 Gyr) populations we find rates of $0.9^{+0.3}_{−0.2}$ and $0.27^{+0.1}_{−0.09} RRL/10^5M⊙$, respectively.
