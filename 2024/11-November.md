@@ -63,3 +63,35 @@
 		- Modelling membership probabilities based on **proper motion and photometric distance** we obtained a list of **302 RRL stars** associated with Magellanic clusters.
 		- Of these, **23 RRL** are likely members of **10 intermediate-age clusters**: 3 and 7 in the Small and Large Magellanic Clouds, respectively.
 		- For the old population (>8 Gyr) we find $2.6^{+0.4}_{−0.3} RRL/10^5M⊙$. For the young (1-2 Gyr) and intermediate age (2-8 Gyr) populations we find rates of $0.9^{+0.3}_{−0.2}$ and $0.27^{+0.1}_{−0.09} RRL/10^5M⊙$, respectively.
+
+## Thu, 21 Nov
+- [A non-axisymmetric potential for the Milky Way disk](https://arxiv.org/abs/2411.12800) ZY. R. Khalil, B. Famaey, G. Monari
+	- 银河系非轴对称引力势，利用GaiaDR3盘恒星的运动星系来调整银河系势能模型，包括棒和螺旋臂的详细参数，可以用来做银河系轨道积分之类的事
+
+- [Empirical color correction to MIST and PARSEC isochrones on Gaia BR-RP and G-RP with benchmark open clusters](https://arxiv.org/abs/2411.12987) 王凡，房敏，符晓婷，陈洋
+	- 观测到的Gaia星团CMD与理论模型等龄线(PARSEC)之间有颜色偏差，尤其在低质量端。量化了三个基准星团Hyades, Pleiades 和 的颜色(G-RP, BP-RP)偏差，给出了经验的校准函数，并将校准函数应用于31个额外的疏散星团和3个移动星团，显著改善了等龄线与观测CMD之间的一致性。通过我们的经验校正，等时线提供的年龄估计值与通过光谱锂耗竭边界方法获得的文献值一致，验证了我们方法的有效性。 PARSEC 1.2S 对应的金属度也与光谱结果表现出良好的一致性。
+
+- [Revisiting the activity-rotation relation for evolved stars](https://arxiv.org/abs/2411.12994) Henggeng Han，王松，李学雪，郑传杰，刘继峰
+	- 研究活动性和自传关系，给磁发电机机制提供insight
+
+- [The temporal and spatial variations of lithium abundance in the Galactic disc](https://arxiv.org/abs/2411.13011) 孙天辰（向茂盛老师博后），毕少兰
+	- 研究银盘上的锂丰度在空间和时间（利用年龄拐点MSTO）上的变化。
+	- 锂丰度随恒星年龄的复杂变化：从 14 Gyr 逐渐增加到 6 Gyr，然后在 6 Gyr 和 4.5 Gyr 之间下降，此后迅速增加。我们发现年轻的富锂恒星（年龄<4 Gyr，A(Li) >2.7 dex）主要来自外盘。锂的银河系径向轮廓（相对于诞生半径）作为年龄的函数，显示出三个不同的时期：14-6 Gyr 前、6-4 Gyr 前和 4-1 Gyr 前。
+	- 最初，锂丰度梯度为正，表明锂丰度随着诞生半径的增加而增加。在第二个时期，它转变为负的和破碎的梯度，主要受 Li-dip 恒星的影响。在最后一个时期，梯度恢复为正趋势。
+
+- [HiFAST: An HI Data Calibration and Imaging Pipeline for FAST III. Standing Wave Removal](https://arxiv.org/abs/2411.13016) 徐晨，王杰，景英杰
+	- 射电望远镜焦点和电磁波之间来回反射会形成驻波，利用FFT来消除驻波。pipeline中总结了各种驻波的情况和解决方法。发现了一些干扰的原因，8.1MHz是由于接收机的电磁干扰，后来21年把接收机放到了另一个电磁屏蔽的地方之后，FAST的数据质量就得到了大幅提高；0.5MHz可能是数字后段的干扰；0.37MHz可能是FAST另一个接收机带来的。
+
+- [EWOCS-III: JWST observations of the supermassive star cluster Westerlund 1](https://arxiv.org/abs/2411.13051) M. G. Guarcello, V. Almendros-Abad, J. B. Lovell
+	- 用DOLPHOT处理了 JWST观测的Westerlund1，在23.8mag星等极限完备性～50%（大致对应于 0.06 $M_\odot$棕矮星），够到的质量范围很低
+
+- [SDSS J102915.14+172927.9: Revisiting the chemical pattern](https://arxiv.org/abs/2411.13096) E. Caffau (GEPI), P. Bonifacio (GEPI), L. Monaco (UNAB), M. Steffen (AIP)
+	- 在非常低的金属丰度且年老的星中，没有看到碳。（是一件很罕见的事情，一般几乎没有铁的恒星中，怎么着都有碳）
+
+- [Identifying the Galactic Substructures in 5D Space Using All-sky RR Lyrae Stars in Gaia DR3](https://arxiv.org/abs/2411.13122) Shenglan Sun, Fei Wang, Huawei Zhang, Xiang-Xiang Xue
+	- 用RR Lyrae的5D数据来看银河系的子结构。
+	- **data**: identify substructures in the Galactic halo using 46,575 RR Lyrae stars (RRLs) from Gaia DR3 with the photometric metallicities and distances newly estimated by Li et al. (2023).
+	- **method**: Assuming a Gaussian prior distribution of radial velocity, we calculate the orbital distribution characterized by the integrals of motion for each RRL based on its 3D positions, proper motions and corresponding errors, and then apply the friends-of-friends algorithm to identify groups moving along similar orbits.
+	- **results**: 
+		- have identified several known substructures, including Sagittarius (Sgr) Stream, Hercules-Aquila Cloud (HAC), Virgo Overdensity (VOD), Gaia-Enceladus-Sausage (GES), Orphan-Chenab stream, Cetus-Palca, Helmi Streams, Sequoia, Wukong and Large Magellanic Cloud (LMC) leading arm, along with 18 unknown groups
+		- indicate that HAC and VOD have kinematic and chemical properties remarkably similar to GES, with most HAC and VOD members exhibiting eccentricity as high as GES, suggesting that they may share a common origin with GES
