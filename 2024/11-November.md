@@ -95,3 +95,33 @@
 	- **results**: 
 		- have identified several known substructures, including Sagittarius (Sgr) Stream, Hercules-Aquila Cloud (HAC), Virgo Overdensity (VOD), Gaia-Enceladus-Sausage (GES), Orphan-Chenab stream, Cetus-Palca, Helmi Streams, Sequoia, Wukong and Large Magellanic Cloud (LMC) leading arm, along with 18 unknown groups
 		- indicate that HAC and VOD have kinematic and chemical properties remarkably similar to GES, with most HAC and VOD members exhibiting eccentricity as high as GES, suggesting that they may share a common origin with GES
+
+## Fri, 22 Nov
+- [A Glimpse at the New Redshift Frontier Through Abell S1063](https://arxiv.org/abs/2411.13640) Vasily Kokorev, Hakim Atek, John Chisholm
+	- 5个 JWST 红移16-19的星系，非常高红移，可信度存疑，测光数据得到的，需要最终的光谱证认
+	- report the discovery of **five galaxy candidates** at redshifts between **15.9<z<18.6** in JWST observations from the **GLIMPSE survey**, identified using a combination of Lyman-break selection and photometric redshift estimates
+	- These galaxies have absolute magnitudes ranging from MUV=−17.7 to −18.0 mag, with UV continuum slopes between β≃−2.3 and β≃−3.0, consistent with young, dust-free stellar populations.
+	- Overall, our results indicate that the luminosity distribution of the earliest star-forming galaxies could be shifting towards fainter luminosities, implying that future surveys of cosmic dawn will need to explore this faint luminosity regime.
+
+- [Asymmetry of the tidal tails of open star clusters in direct N-body integrations in Milgrom-law dynamics](https://arxiv.org/abs/2411.13675) J. Pflamm-Altenburg
+	- **MOND** : Modified Newtonian Dynamics 修正牛顿动力学，是一种用于解释引力作用的新理论框架。它的主要目的是在不需要假设暗物质的情况下，解释星系和星系团中异常的引力现象，尤其是在低加速度环境下（如星系的外部区域）。
+	- **context** : 
+		- Numerical QUMOND-simulations of star clusters orbiting in a Galactic disk potential show that the leading tidal arm of open star clusters contains tendentially more members than the trailing arm 在银河系盘势场中对疏散星团做的QUMOND数值模拟显示，疏散星团的潮汐前臂往往比后臂包含更多的成员
+		- However, these type of simulations are performed by solving the field-equations of QUMOND and already become non-practical for star cluster masses at around 5000 Msun. 模拟通过求解QUMOND场方程进行，对质量在 5000$M_\odot$ 左右的星团已经不适用了
+		- Nearby star clusters have masses of 1000 Msun or ~1000 particles and less/fewer and can currently not be simulated reliably in field-theoretical formulations of MOND. 近邻星团的质量为 1000$M_\odot$ 或 ～1000 粒子或更少，目前无法在MOND模型中进行可靠的模拟
+	- **method** : In order to handle particle numbers below the QUMOND-limit the star cluster is simulated in **Milgrom-law dynamics (MLD)**: Milgrom's law is postulated to be valid for discrete systems in vectorial form.
+	- **results** : 
+		- It is found that the tidal tails of a low-mass star cluster are populated asymmetrically in the MLD-treatment, very similar to the QUMOND simulations of the higher-mass star clusters. 
+		- In the MLD-simulations the leading tail hosts up to twice as many members than the trailing arm and the low-mass open star cluster dissolves approximately 25% faster than in the respective Newtonian case.
+
+- [A study of the star clusters' population in the giant molecular cloud G174+2.5](https://arxiv.org/abs/2411.14235) T.A. Permyakova (UrFU), G. Carraro (UniPD), A.F. Seleznev (UrFU), A.M. Sobolev (UrFU), D.A. Ladeyschikov (UrFU), M.S. Kirsanova (Inasan)
+	- 对巨分子云 G174+2.5 中的嵌埋星团，计算了星团的结构，**消光**，CMD，运动学和动力学状态
+	- **data** : based on photometric data from the **UKIDSS** Galactic Plane Survey catalog and astrometric data from the **Gaia** DR3
+	- **method** :
+		- First, we recover all the known embedded clusters and candidate clusters in the region using surface density maps. 
+		- Then, for the detected clusters, we determine their general parameters: the center positions, radii, number of stars, and reddening. 
+		- To evaluate the reddening, we use both the NICEST algorithm and the Q-method. Both methods produce consistent extinction maps in the regions of the four studied clusters. However, the Q-method yields a much smaller color scatter in the CMD. For four clusters in particular (S235~North-West, S235~A-B-C, S235~Central, and S235~East1+East2), we were able to compute individual membership probabilities, the cluster distances, the cluster masses, and their average proper motions.
+		- By building on these results, we have studied the clusters' kinematics and dynamics. 
+		- Moreover, we estimate the mass of the gas component and the star formation efficiency (SFE) in the regions of these four clusters. 
+		- Finally, we provide an estimate of the total energy of the stellar and gas components in the area of these four clusters to determine whether the clusters are bound (here we consider a 'cluster' as the system 'stars + gas').
+	- **results** : The gravitational bound strongly depends on the region for which we estimate the gas mass. If we consider the mass of the entire cloud, all these four clusters turn out to be bound.
