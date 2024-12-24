@@ -42,7 +42,7 @@
 		- However, ωCen is known to be the stripped nuclear star cluster (NSC) of an ancient, now-destroyed, dwarf galaxy. 
 		- The best candidate to be the original host progenitor of ωCen is the tidally disrupted dwarf Gaia-Sausage/Enceladus (GSE), a former Milky Way satellite as massive as the Large Magellanic Cloud.
 	- **method:**  
-		- I compare ωCen/GSE with other central BH hosts and place it within the broader context of BH-galaxy (co)evolution. ![[../figure/11-November-4.png]]
+		- I compare ωCen/GSE with other central BH hosts and place it within the broader context of BH-galaxy (co)evolution. ![](../figure/11-November-4.png)
 		-  I verify that ωCen (GSE), as well as other NSCs with candidate IMBHs and ultracompact dwarf galaxies, also follow the MBH−σ⋆ relation with stellar velocity dispersion.
 	- **results:**
 		- The IMBH of ωCen/GSE follows the scaling relation between central BH mass and host stellar mass (MBH−M⋆) extrapolated from local massive galaxies ($M⋆≳10^{10}M⊙$). Therefore, the IMBH of ωCen/GSE suggests that this relation extends to the dwarf-galaxy regime.
