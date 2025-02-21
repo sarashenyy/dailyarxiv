@@ -25,3 +25,9 @@
 	**Author**: Colin R McInnes **[格拉斯哥大学]**  
 	**Status**: published in [MNRAS](https://doi.org/10.1093/mnras/staf028)
 	在1856年的《亚当斯奖论文 Adams Prize essay》中，詹姆斯·克拉克·麦克斯韦展示了土星的环不可能由一个均匀的刚性物体组成。这是由于环与行星之间的双体引力相互作用导致的不稳定性。同样，根据牛顿的壳层定理，也已知所谓的包围单一恒星的戴森球会因其不稳定性而无法存在。本文报告了一个令人惊讶的发现，即**在受限三体问题中，环和球（壳）都可以是稳定的**。首先，如果考虑两个主要质量绕其共同质心轨道运动，那么一个大而均匀、无限小的环包围较小的质量，在*某些条件*下是可以稳定的。同样，如果戴森球包围*较小的主质量*，它也可以在某些条件下保持稳定。这些发现扩展了麦克斯韦关于环动力学的结果，并对科幻作品中的“环世界”和戴森球具有有趣的意义。此外，对于这种大尺度结构存在被动稳定轨道的发现，可能对寻找外星智能的科技信号研究具有重要启示。
+
+## 2025-02-20, Thu
+1. [Inconsistent metallicity spreads in first generation stars of globular clusters from high resolution spectroscopy and HST photometry](https://arxiv.org/abs/2502.13206)  
+	**Authors**: Eugenio Carretta, Angela Bragaglia **[INAF-OAS bologna]**  
+	高分辨率光谱和HST测光得到的球状星团第一代恒星的金属丰度分布不一致。  
+		
