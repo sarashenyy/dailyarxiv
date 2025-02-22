@@ -35,7 +35,7 @@
 	**Results**:   
 	- Providing for the first time quantitative measurements of the extension in Delta col of the sequences of FG and SG stars, we found no relation between metallicity spreads previously derived and extension of FG stars.   
 	- We found that the length of the FG region correlates with the average global metallicity of GCs, and not with the observed metallicity spreads.   
-	- The extension of FG stars also correlates with the extension of SG stars, and the global mass of the GCs.   
+	- The extension of FG stars also correlates with the extension of SG stars, and the global mass of the GCs.  
 	**重要性**: Our findings seriously challenge the scenario claiming more inhomogeneous mixing among FG stars, invalidating previous speculations in the literature.
 
 2. [Segregation in Nuclear Stellar Clusters: Rates and Mass Distributions of TDEs, QPEs, Plunges, and EMRIs](https://arxiv.org/abs/2502.13209)  
