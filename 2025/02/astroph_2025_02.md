@@ -30,10 +30,12 @@
 1. [Inconsistent metallicity spreads in first generation stars of globular clusters from high resolution spectroscopy and HST photometry](https://arxiv.org/abs/2502.13206)  
 	**Authors**: Eugenio Carretta, Angela Bragaglia **[INAF-OAS bologna]**  
 	高分辨率光谱和HST测光得到的球状星团第一代恒星的金属丰度分布不一致。  
-	基于HST pseudo-colors map (PCM) 伪彩色图，近期有研究金属丰度分布异常地大，在颜色 $\rm{col} = m_\rm{F275W}-m_\rm{F814W}$ 上。许多球状星团推断出的金属丰度分布甚至超过了矮星系中观察到的分布，这和矮星系中恒星形成存在矛盾——矮星系的恒星形成跨度为billion years几十亿年，而球状星团恒星形成跨度一般是million years几百万年，这一矛盾通过对比两类天体中红巨星分支的宽度得到验证。此外，从伪色图推算出的第一代恒星的金属丰度分布总是大于通过光谱学测得的内在金属丰度分布。
-	**Method**: 使用了12个球状星团中30对第一代恒星，强调了色差Δcol的偏移与[Fe/H]差异的可变性之间的关系，差异可达到**0.2dex**，具体取决于星团。
-	**Results**: 
-	- Providing for the first time quantitative measurements of the extension in Delta col of the sequences of FG and SG stars, we found no relation between metallicity spreads previously derived and extension of FG stars. 
-	- We found that the length of the FG region correlates with the average global metallicity of GCs, and not with the observed metallicity spreads. 
-	- The extension of FG stars also correlates with the extension of SG stars, and the global mass of the GCs. 
+	基于HST pseudo-colors map (PCM) 伪彩色图，近期有研究金属丰度分布异常地大，在颜色 $\rm{col} = m_\rm{F275W}-m_\rm{F814W}$ 上。许多球状星团推断出的金属丰度分布甚至超过了矮星系中观察到的分布，这和矮星系中恒星形成存在矛盾——矮星系的恒星形成跨度为billion years几十亿年，而球状星团恒星形成跨度一般是million years几百万年，这一矛盾通过对比两类天体中红巨星分支的宽度得到验证。此外，从伪色图推算出的第一代恒星的金属丰度分布总是大于通过光谱学测得的内在金属丰度分布。  
+	**Method**: 使用了12个球状星团中30对第一代恒星，强调了色差Δcol的偏移与[Fe/H]差异的可变性之间的关系，差异可达到**0.2dex**，具体取决于星团。  
+	**Results**:   
+	- Providing for the first time quantitative measurements of the extension in Delta col of the sequences of FG and SG stars, we found no relation between metallicity spreads previously derived and extension of FG stars.   
+	- We found that the length of the FG region correlates with the average global metallicity of GCs, and not with the observed metallicity spreads.   
+	- The extension of FG stars also correlates with the extension of SG stars, and the global mass of the GCs.   
 	**重要性**: Our findings seriously challenge the scenario claiming more inhomogeneous mixing among FG stars, invalidating previous speculations in the literature.
+
+2. [Segregation in Nuclear Stellar Clusters: Rates and Mass Distributions of TDEs, QPEs, Plunges, and EMRIs](https://arxiv.org/abs/2502.13209)  
