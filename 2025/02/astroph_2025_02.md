@@ -30,4 +30,4 @@
 1. [Inconsistent metallicity spreads in first generation stars of globular clusters from high resolution spectroscopy and HST photometry](https://arxiv.org/abs/2502.13206)  
 	**Authors**: Eugenio Carretta, Angela Bragaglia **[INAF-OAS bologna]**  
 	高分辨率光谱和HST测光得到的球状星团第一代恒星的金属丰度分布不一致。  
-		
+	基于HST pseudo-colors map (PCM) 伪彩色图，近期有研究金属丰度分布异常地大，在颜色 $m_\rm{F275W}-m_\rm{F814W}$ 上。许多球状星团推断出的金属丰度分布甚至超过了矮星系中观察到的分布。
