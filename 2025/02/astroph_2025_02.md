@@ -51,6 +51,28 @@
 	RR Lyrae是重要的距离探针，希望检查球状星团的轨道衰减是否能导致银河系核球区的RR Lyrae分布。发现核区RR Lyrae分布有较大的不确定性，无法直接与理论模型比较。但是可以断言，在前景的RR Lyrae星中，有相当一部分来自轨道演化和已经溶解dissolved的球状星团
 
 4. [PINN ME: A Physics-Informed Neural Network Framework for Accurate Milne-Eddington Inversions of Solar Magnetic Fields](https://arxiv.org/abs/2502.13924)  
-	> ML, PINN, Solar  
+	>ML, PINN, Solar  
+	> **code**: https://github.com/RobertJaro/pinn-me
+	  
+	**Authors**: Robert Jarolim, Momchil E. Molnar, Benoit Tremblay **[高海拔天文台，美国]**
+	太阳光测的光谱极化反演 Spectropolarimetric inversions of solar observations。基于PINN，在米尔恩-艾丁顿近似 Milne-Eddington approximation (PINN ME)下推断光球层磁场。模型作为参数空间的表示representation，映射输入坐标(t,x,y)到相应的光谱极化参数，这些参数用于合成斯托克斯蒲县。方法能找到最佳拟合米尔恩-艾丁顿参数集。同时，直接包括点扩散函数PSF。
 
-	**Authors**: Robert Jarolim, Momchil E. Molnar, Benoit Tremblay [高海拔天文台，美国]
+## 2025-02-21, Fri
+1. [Two categories of UV-upturn galaxies revealed by semi-analytic models](https://arxiv.org/abs/2502.14263)  
+	>UV-upturn galaxies, IMF, semi-analytic model  
+	  
+	**知识点**：UV-upturn galaxies 特点是远紫外FUV波段光度异常增高，在一些椭圆星系和盘星系的核区被观察到。在半解析模型GABE中研究了UV-upturn galaxies，这个模型嵌入了极端水平支(EHB)星，EHB被认为是 UV-upturn 的关键候选。    
+	分析了所有相关物理过程，包括stellar evolution, **initial mass functions (IMFs)**, dust attenuation, galaxy age, metallicity, and binary fractions，希望确定哪些过程在其中起到了重要作用。    
+	**Results**:
+	- 半解析模型中UV-upturn galaxies有两类，分别来自不同形成渠道
+	- old metal-rich quenched elliptical galaxies, **intrinsic** UV-upturn galaxies induced by **EHB** stars within their old stellar populations
+	- dusty star-forming galaxies, relatively young and may also be photometrically identified as UV-upturn galaxies when accounting for **dust attenuation**
+	- IMF的大质量尾部对UV-upturn影响较小，普适的IMF对UV-upturn是够用的
+
+2. [COSMIC-S: a photometric Catalogue of Observed Stars in the Small MagellanIc Cloud](https://arxiv.org/abs/2502.14470)  
+	>SMC, Photometric Catalogue of star
+	>**Data**: ApJS
+	
+	**Authors**: A. Franco, A. A. Nucita, F. De Paolis, F. Strafella **[INAF]**  
+	Dark Energy Camera (DECam) wide-field instrument mounted on the 4m V. Blanco Telescope (CTIO). 分析了2018年2月到2020年一月之间的对 SMC 的 DECam 图像，用 SExtractor 和 PSFx 做了PSF测光，目录有 10 971 906 个源，完备性在 22 mag，极限在 25 mag。
+
