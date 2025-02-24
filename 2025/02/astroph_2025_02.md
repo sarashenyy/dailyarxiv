@@ -52,4 +52,5 @@
 
 4. [PINN ME: A Physics-Informed Neural Network Framework for Accurate Milne-Eddington Inversions of Solar Magnetic Fields](https://arxiv.org/abs/2502.13924)  
 	> ML, PINN, Solar  
+
 	**Authors**: Robert Jarolim, Momchil E. Molnar, Benoit Tremblay [高海拔天文台，美国]
