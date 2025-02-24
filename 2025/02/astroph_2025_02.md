@@ -70,7 +70,7 @@
 	- IMF的大质量尾部对UV-upturn影响较小，普适的IMF对UV-upturn是够用的
 
 2. [COSMIC-S: a photometric Catalogue of Observed Stars in the Small MagellanIc Cloud](https://arxiv.org/abs/2502.14470)  
-	>SMC, Photometric Catalogue of star
+	>SMC, Photometric Catalogue of star  
 	>**Data**: ApJS
 	
 	**Authors**: A. Franco, A. A. Nucita, F. De Paolis, F. Strafella **[INAF]**  
