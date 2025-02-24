@@ -38,4 +38,18 @@
 	- The extension of FG stars also correlates with the extension of SG stars, and the global mass of the GCs.  
 	**重要性**: Our findings seriously challenge the scenario claiming more inhomogeneous mixing among FG stars, invalidating previous speculations in the literature.
 
-2. [Segregation in Nuclear Stellar Clusters: Rates and Mass Distributions of TDEs, QPEs, Plunges, and EMRIs](https://arxiv.org/abs/2502.13209)  
+2. [Using detailed single star and binary evolution models to probe the large observed luminosity spread of red supergiants in young open star clusters](https://arxiv.org/abs/2502.13642)  
+	**Authors**: Chen Wang(Postdoc),  Lee Patrick, Abel Schootemeijer, Selma E. de Mink **[MPIA]**  
+	大质量恒星演化晚期会变成红超巨星 RSGs，最近的研究发现年轻疏散星团中的红超巨星的亮度范围比单星演化模型预期的要宽，可能解释之一是双星演化效应。对100Myr以内的星团，分析了其中3670个双星演化模型以及相应的单星模型。    
+	**Results**:  
+	- RSGs的光度范围在共生系统covel population中可以跨越十倍 a factor of ten  
+	- 仅凭**双星效应无法解释**亮度达到当前单星模型预测的三倍的RSGs的数量  
+	- 讨论了观测精度、旋转混合、年龄弥散以及RSG的内秉变化性等可能的解释  
+
+3. [The RR Lyrae distribution in the Galactic Bulge](https://arxiv.org/pdf/2502.13650)  
+	**Authors**: Roberto Capuzzo-Dolcetta **[罗马大学]**  
+	RR Lyrae是重要的距离探针，希望检查球状星团的轨道衰减是否能导致银河系核球区的RR Lyrae分布。发现核区RR Lyrae分布有较大的不确定性，无法直接与理论模型比较。但是可以断言，在前景的RR Lyrae星中，有相当一部分来自轨道演化和已经溶解dissolved的球状星团
+
+4. [PINN ME: A Physics-Informed Neural Network Framework for Accurate Milne-Eddington Inversions of Solar Magnetic Fields](https://arxiv.org/abs/2502.13924)  
+	> ML, PINN, Solar  
+	**Authors**: Robert Jarolim, Momchil E. Molnar, Benoit Tremblay [高海拔天文台，美国]
