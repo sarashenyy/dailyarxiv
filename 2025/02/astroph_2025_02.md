@@ -76,3 +76,16 @@
 	**Authors**: A. Franco, A. A. Nucita, F. De Paolis, F. Strafella **[INAF]**  
 	Dark Energy Camera (DECam) wide-field instrument mounted on the 4m V. Blanco Telescope (CTIO). 分析了2018年2月到2020年一月之间的对 SMC 的 DECam 图像，用 SExtractor 和 PSFx 做了PSF测光，目录有 10 971 906 个源，完备性在 22 mag，极限在 25 mag。
 
+# Week 10
+## 2025-02-24, Mon
+1. [Boosting the growth of intermediate-mass black holes: collisions with massive stars](https://arxiv.org/abs/2502.14955)   
+	>IMBH, dense cluster  
+	
+	**Authors**: Thomas W. Baumgarte, Stuart L. Shapiro  
+	中等质量黑洞和大质量恒星的 head-on collision 正面碰撞模拟，这种碰撞一般发生在致密星团中，可能对种子黑洞的质量增长有重要作用。模拟显示大部分恒星质量会吸积到黑洞上，导致黑洞的快速增长，少量质量收到冲击加热，喷射成为星团中的星际物质。
+
+2. [The Life and Times of Star-Forming Cores: an Analysis of Dense Gas in the STARFORGE Simulations](https://arxiv.org/abs/2502.15057)  
+	>STARFORGE, gas simulation
+	
+	**Authors**: Stella S. R. Offner, Josh Taylor, Michael Y. Grudic  **[Uni of Texas at Austin, USA]**  
+	
