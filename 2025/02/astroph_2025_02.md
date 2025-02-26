@@ -87,5 +87,5 @@
 2. [The Life and Times of Star-Forming Cores: an Analysis of Dense Gas in the STARFORGE Simulations](https://arxiv.org/abs/2502.15057)  
 	>STARFORGE, gas simulation
 	
-	**Authors**: Stella S. R. Offner, Josh Taylor, Michael Y. Grudic  **[Uni of Texas at Austin, USA]**  
-	
+	**Authors**: Stella S. R. Offner, Josh Taylor, Michael Y. Grudic  **[Uni of Texas at Austin, USA]**   
+	在STARFORGE 模拟数据中识别致密云核并追踪其演化，无星starless
