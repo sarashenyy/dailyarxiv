@@ -88,4 +88,9 @@
 	>STARFORGE, gas simulation
 	
 	**Authors**: Stella S. R. Offner, Josh Taylor, Michael Y. Grudic  **[Uni of Texas at Austin, USA]**   
-	在STARFORGE 模拟数据中识别致密云核并追踪其演化，无星starless
+	在STARFORGE 模拟数据中识别致密云核并追踪其演化，无星云核starless core生命在0.5 - 0.6 Myr，原恒星云核 protostellar core生命在0.8 - 1.1 Myr，原恒星阶段持续时间在0.1Myr。
+
+3. [Multi-Wavelength characterization of VVVX open clusters](https://arxiv.org/abs/2502.15114)
+	>open cluster, VVVX
+	
+	**Authors**: 
