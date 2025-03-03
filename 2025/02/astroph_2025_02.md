@@ -93,4 +93,5 @@
 3. [Multi-Wavelength characterization of VVVX open clusters](https://arxiv.org/abs/2502.15114)
 	>open cluster, VVVX
 	
-	**Authors**: 
+	**Authors**: C.O. Obasi, E. R. Garro, J.G. Fernández-Trincado  
+	
