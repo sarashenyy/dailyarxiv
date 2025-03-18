@@ -28,6 +28,25 @@
 5. [Microlensing Constraints on the Stellar and Planetary Mass Functions](https://arxiv.org/abs/2503.11597)   
 	>exoplanets    
 	
-	**Authors**: Jennifer C. Yee, Scott J. Kenyon
-	**前人工作**：Gould et al (2022)，Sumi et al (2023)，Kirkpatrick et al (2024)
+	**Authors**: Jennifer C. Yee, Scott J. Kenyon    
+	**前人工作**：Gould et al (2022)，Sumi et al (2023)，Kirkpatrick et al (2024)    
 	用微引力透镜限制恒星和行星的质量函数，微引力透镜测得的质量包含恒星和行星两部分。
+
+## 2025-03-18, Tue
+1. [The role of Massive Black Holes in merging star clusters: dynamical evolution, stellar & compact object ejections and gravitational waves](https://arxiv.org/abs/2503.11813)    
+	>galaxy, BH, star cluster, N-body simulation
+	
+	**Authors**: Lazaros Souvaitzis,Antti Rantala,Thorsten Naab **[MPIA]**    
+	N-体模拟BIFROST，两个质量为 $2.7\times10^4 M_{\odot}$ 的星团合并，包含 $500 M_{\odot}$ 的 massive black holes (MBHs)，在100Myr内会产生约800颗逃逸速度为 $v_{eh} > 50$ km/s 的逃逸星和约30颗 stellar BH并且能加速到300km/s；相比拥有 $1000 M_{\odot}$ BH 的孤立星团，拥有更小质量的BH的星团合并能产生比前者更多的速度更大的逃逸星
+
+2. [Mass-Dependent Radial Distribution of Single and Binary Stars in the Pleiades and their Dynamical Implications](https://arxiv.org/abs/2503.13280)    
+	>open cluster, pleiades
+
+	**Authors**: 邵正义，李璐 **[上台]**    
+	径向分布的质量关系，看到了质量分离和双星瓦解在双星质量分布上的作用。    
+	双星的质量函数比单星更top-heavy（有更多大质量星），质量分离在双星和单星分布中都有观测到（大质量星在中心）。**特别注意到**，在给定质量范围内，双星的分布比单星更弥散。双星比的径向分布 $f_b - R$ 可以被描述为双峰形式，中心和外围都有更高的双星比。低质量子样本的fb随着R单调增，反应了双星瓦解的影响；而大质量子样本随着R单调递减，可以被解释为拥有更高双星比的大质量成员已经经历了显著的质量分离。Pleaids目前正在经历各种内部动力学效应的复杂作用，其中质量分离和双星瓦解之间的调制尤为明显。
+
+3. [initial mass function]
+
+4. [journal]
+
